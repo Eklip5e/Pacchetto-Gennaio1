@@ -1,8 +1,8 @@
-[21:05:25] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
-[21:05:25] [Client thread/INFO] [JourneymapClient] initialize ENTER
-[21:05:26] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
-[21:05:26] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
-[21:05:26] [Client thread/INFO] [?] Version: JourneyMap 1.12.2-5.7.1, built with Forge 14.23.5.2768
+[21:33:10] [Client thread/INFO] [JMLogger] JourneyMap log initialized.
+[21:33:10] [Client thread/INFO] [JourneymapClient] initialize ENTER
+[21:33:10] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[21:33:10] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[21:33:10] [Client thread/INFO] [?] Version: JourneyMap 1.12.2-5.7.1, built with Forge 14.23.5.2768
 Forge: 14.23.5.2854
 Environment: os.name, os.arch, java.version, user.country, user.language=null, game language=en_us, locale=en_us
 Features: 
@@ -19,87 +19,23 @@ FullMapProperties{state=Valid, file=journeymap.fullmap.config, configVersion=5.7
 WaypointProperties{state=Valid, file=journeymap.waypoint.config, configVersion=5.7.1, autoRemoveDeathpointDistance=2, createDeathpoints=true, showName=true, dateFormat=MM-dd-yyyy, autoRemoveDeathpoints=false, maxDistance=0, autoHideLabel=true, teleportCommand=/tp {name} {x} {y} {z}, showStaticBeam=true, minDistance=4, timeFormat=HH:mm:ss, boldLabel=false, textureSmall=true, showDeathpointlabel=true, showDistance=true, showRotatingBeam=true, fontScale=2, showTexture=true, managerEnabled=true, beaconEnabled=true}
 WebMapProperties{state=Valid, file=journeymap.webmap.config, configVersion=5.7.1, zoomLevel=0, showWaypoints=true, showCaves=true, showSelf=true, port=8080, showGrid=true, showEntityNames=true, enabled=false, preferredMapType=day}
 CoreProperties{state=Valid, file=journeymap.core.config, configVersion=5.7.1, verboseColorPalette=false, maxPlayersData=32, mapSurfaceAboveCaves=true, optionsManagerViewed=null, announceMod=true, colorPassive=#bbbbbb, renderOverlayEventTypeName=ALL, mapBlendWater=false, renderDistanceSurfaceMax=7, radarVerticalDistance=16, mapBlendGrass=true, recordCacheStats=false, hideSneakingEntities=true, revealShape=Circle, alwaysMapSurface=false, colorVillager=#88e188, mapPlants=false, colorPet=#0077ff, radarLateralDistance=64, mapBathymetry=false, mapCrops=true, maxMobsData=32, mapPlantShadows=false, alwaysMapCaves=false, checkUpdates=true, browserPoll=2000, mapBlendFoliage=true, mappingEnabled=true, colorPlayer=#ffffff, tileHighDisplayQuality=true, cacheVillagersData=2200, logLevel=INFO, maxVillagersData=32, maxAnimalsData=32, mapTransparency=true, tileRenderType=1, caveIgnoreGlass=true, mapTopography=true, renderDistanceCaveMax=3, mapAntialiasing=true, colorSelf=#0000ff, cachePlayersData=2000, cacheMobsData=3000, cachePlayerData=1000, splashViewed=null, colorHostile=#ff0000, cacheAnimalsData=3100, themeName=OceanMonument, mapCaveLighting=true, renderDelay=2, renderOverlayPreEvent=true, autoMapPoll=2000}
-[21:05:26] [Client thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.4
-[21:05:26] [Client thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
-[21:05:26] [Client thread/INFO] [PluginHelper] Initialized IClientPlugin: net.blay09.mods.waystones.compat.JourneyMapAddon
-[21:05:26] [Client thread/INFO] [PluginHelper] Initialized IClientPlugin: com.teamacronymcoders.base.modules.journeymap.JourneyMapPlugin
-[21:05:26] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg ?ms
-[21:05:33] [Client thread/INFO] [IconSetFileHandler] Added entity icons from journeymap:icon/entity. Success: false
-[21:05:33] [Client thread/INFO] [ThemeLoader] Preloaded theme textures: 73
-[21:07:52] [Server thread/INFO] [PropertiesBase] global (FirstLoaded) Setting config file to version "5.7.1": journeymap.server.global.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] global (Valid) Creating config file: D:\Documenti\Curse\Minecraft\Instances\Pacchetto-Gennaio\journeymap\server\5.7\journeymap.server.global.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] default (FirstLoaded) Setting config file to version "5.7.1": journeymap.server.default.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] default (Valid) Creating config file: D:\Documenti\Curse\Minecraft\Instances\Pacchetto-Gennaio\journeymap\server\5.7\journeymap.server.default.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim0 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim0.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim0 (Valid) Creating config file: D:\Documenti\Curse\Minecraft\Instances\Pacchetto-Gennaio\journeymap\server\5.7\journeymap.server.dim0.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim1 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim1.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim1 (Valid) Creating config file: D:\Documenti\Curse\Minecraft\Instances\Pacchetto-Gennaio\journeymap\server\5.7\journeymap.server.dim1.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim800 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim800.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim800 (Valid) Creating config file: D:\Documenti\Curse\Minecraft\Instances\Pacchetto-Gennaio\journeymap\server\5.7\journeymap.server.dim800.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim801 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim801.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim801 (Valid) Creating config file: D:\Documenti\Curse\Minecraft\Instances\Pacchetto-Gennaio\journeymap\server\5.7\journeymap.server.dim801.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim802 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim802.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim802 (Valid) Creating config file: D:\Documenti\Curse\Minecraft\Instances\Pacchetto-Gennaio\journeymap\server\5.7\journeymap.server.dim802.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim803 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim803.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim803 (Valid) Creating config file: D:\Documenti\Curse\Minecraft\Instances\Pacchetto-Gennaio\journeymap\server\5.7\journeymap.server.dim803.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim804 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim804.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim804 (Valid) Creating config file: D:\Documenti\Curse\Minecraft\Instances\Pacchetto-Gennaio\journeymap\server\5.7\journeymap.server.dim804.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim805 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim805.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim805 (Valid) Creating config file: D:\Documenti\Curse\Minecraft\Instances\Pacchetto-Gennaio\journeymap\server\5.7\journeymap.server.dim805.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim806 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim806.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim806 (Valid) Creating config file: D:\Documenti\Curse\Minecraft\Instances\Pacchetto-Gennaio\journeymap\server\5.7\journeymap.server.dim806.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim807 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim807.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim807 (Valid) Creating config file: D:\Documenti\Curse\Minecraft\Instances\Pacchetto-Gennaio\journeymap\server\5.7\journeymap.server.dim807.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim808 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim808.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim808 (Valid) Creating config file: D:\Documenti\Curse\Minecraft\Instances\Pacchetto-Gennaio\journeymap\server\5.7\journeymap.server.dim808.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim809 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim809.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim809 (Valid) Creating config file: D:\Documenti\Curse\Minecraft\Instances\Pacchetto-Gennaio\journeymap\server\5.7\journeymap.server.dim809.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim810 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim810.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim810 (Valid) Creating config file: D:\Documenti\Curse\Minecraft\Instances\Pacchetto-Gennaio\journeymap\server\5.7\journeymap.server.dim810.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim811 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim811.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim811 (Valid) Creating config file: D:\Documenti\Curse\Minecraft\Instances\Pacchetto-Gennaio\journeymap\server\5.7\journeymap.server.dim811.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim812 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim812.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim812 (Valid) Creating config file: D:\Documenti\Curse\Minecraft\Instances\Pacchetto-Gennaio\journeymap\server\5.7\journeymap.server.dim812.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim813 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim813.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim813 (Valid) Creating config file: D:\Documenti\Curse\Minecraft\Instances\Pacchetto-Gennaio\journeymap\server\5.7\journeymap.server.dim813.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim814 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim814.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim814 (Valid) Creating config file: D:\Documenti\Curse\Minecraft\Instances\Pacchetto-Gennaio\journeymap\server\5.7\journeymap.server.dim814.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim815 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim815.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim815 (Valid) Creating config file: D:\Documenti\Curse\Minecraft\Instances\Pacchetto-Gennaio\journeymap\server\5.7\journeymap.server.dim815.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim816 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim816.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim816 (Valid) Creating config file: D:\Documenti\Curse\Minecraft\Instances\Pacchetto-Gennaio\journeymap\server\5.7\journeymap.server.dim816.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim817 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim817.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim817 (Valid) Creating config file: D:\Documenti\Curse\Minecraft\Instances\Pacchetto-Gennaio\journeymap\server\5.7\journeymap.server.dim817.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim818 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim818.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim818 (Valid) Creating config file: D:\Documenti\Curse\Minecraft\Instances\Pacchetto-Gennaio\journeymap\server\5.7\journeymap.server.dim818.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim819 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim819.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim819 (Valid) Creating config file: D:\Documenti\Curse\Minecraft\Instances\Pacchetto-Gennaio\journeymap\server\5.7\journeymap.server.dim819.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim820 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim820.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim820 (Valid) Creating config file: D:\Documenti\Curse\Minecraft\Instances\Pacchetto-Gennaio\journeymap\server\5.7\journeymap.server.dim820.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim821 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim821.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim821 (Valid) Creating config file: D:\Documenti\Curse\Minecraft\Instances\Pacchetto-Gennaio\journeymap\server\5.7\journeymap.server.dim821.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim-1 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim-1.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim-1 (Valid) Creating config file: D:\Documenti\Curse\Minecraft\Instances\Pacchetto-Gennaio\journeymap\server\5.7\journeymap.server.dim-1.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim420 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim420.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim420 (Valid) Creating config file: D:\Documenti\Curse\Minecraft\Instances\Pacchetto-Gennaio\journeymap\server\5.7\journeymap.server.dim420.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim421 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim421.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim421 (Valid) Creating config file: D:\Documenti\Curse\Minecraft\Instances\Pacchetto-Gennaio\journeymap\server\5.7\journeymap.server.dim421.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim422 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim422.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim422 (Valid) Creating config file: D:\Documenti\Curse\Minecraft\Instances\Pacchetto-Gennaio\journeymap\server\5.7\journeymap.server.dim422.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim423 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim423.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim423 (Valid) Creating config file: D:\Documenti\Curse\Minecraft\Instances\Pacchetto-Gennaio\journeymap\server\5.7\journeymap.server.dim423.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim424 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim424.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim424 (Valid) Creating config file: D:\Documenti\Curse\Minecraft\Instances\Pacchetto-Gennaio\journeymap\server\5.7\journeymap.server.dim424.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim425 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim425.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim425 (Valid) Creating config file: D:\Documenti\Curse\Minecraft\Instances\Pacchetto-Gennaio\journeymap\server\5.7\journeymap.server.dim425.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim426 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim426.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim426 (Valid) Creating config file: D:\Documenti\Curse\Minecraft\Instances\Pacchetto-Gennaio\journeymap\server\5.7\journeymap.server.dim426.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim427 (Initialized) Setting config file to version "5.7.1": journeymap.server.dim427.config
-[21:07:52] [Server thread/INFO] [PropertiesBase] dim427 (Valid) Creating config file: D:\Documenti\Curse\Minecraft\Instances\Pacchetto-Gennaio\journeymap\server\5.7\journeymap.server.dim427.config
-[21:08:09] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
-[21:08:09] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
-[21:08:09] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from D:\Documenti\Curse\Minecraft\Instances\Pacchetto-Gennaio\journeymap\data\sp\New World\waypoints
-[21:08:09] [Client thread/INFO] [JourneymapClient] Mapping started in D:\Documenti\Curse\Minecraft\Instances\Pacchetto-Gennaio\journeymap\data\sp\New World\DIM0. Memory: 4160MB total, 749MB free 
-[21:08:09] [Client thread/INFO] [ChatLog] JourneyMap: Press [J]
-[21:08:17] [Client thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for biomesoplenty
-[21:23:00] [Client thread/INFO] [JourneymapClient] Mapping halted in D:\Documenti\Curse\Minecraft\Instances\Pacchetto-Gennaio\journeymap\data\sp\New World\DIM0
+[21:33:10] [Client thread/INFO] [ClientAPI] [ClientAPI] built with JourneyMap API 1.4
+[21:33:10] [Client thread/INFO] [PluginHelper] Initializing plugins with Client API: journeymap.client.api.impl.ClientAPI
+[21:33:10] [Client thread/INFO] [PluginHelper] Initialized IClientPlugin: net.blay09.mods.waystones.compat.JourneyMapAddon
+[21:33:10] [Client thread/INFO] [PluginHelper] Initialized IClientPlugin: com.teamacronymcoders.base.modules.journeymap.JourneyMapPlugin
+[21:33:10] [Client thread/INFO] [JourneymapClient] initialize EXIT, elapsed count 0 avg ?ms
+[21:33:15] [Client thread/INFO] [IconSetFileHandler] Added entity icons from journeymap:icon/entity. Success: false
+[21:33:16] [Client thread/INFO] [ThemeLoader] Preloaded theme textures: 73
+[21:35:10] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[21:35:10] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[21:35:11] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from D:\Documenti\Curse\Minecraft\Instances\Pacchetto-Gennaio\journeymap\data\sp\New World\waypoints
+[21:35:12] [Client thread/INFO] [JourneymapClient] Mapping started in D:\Documenti\Curse\Minecraft\Instances\Pacchetto-Gennaio\journeymap\data\sp\New World\DIM0. Memory: 4482MB total, 1378MB free 
+[21:35:12] [Client thread/INFO] [ChatLog] JourneyMap: Press [J]
+[21:35:14] [Client thread/INFO] [ModBlockDelegate] Custom modded block handling enabled for biomesoplenty
+[21:36:59] [Client thread/INFO] [StateTickHandler] SphynxEyes died at BlockPos{x=-237, y=62, z=95}. Deathpoints enabled: true. Deathpoint created: true
+[21:48:14] [Client thread/INFO] [JourneymapClient] Mapping halted in D:\Documenti\Curse\Minecraft\Instances\Pacchetto-Gennaio\journeymap\data\sp\New World\DIM0
+[21:50:37] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): optionsManagerViewed=null
+[21:50:37] [Client thread/WARN] [PropertiesBase] core (Initialized) Bad configField entry during updateFrom(): splashViewed=null
+[21:50:37] [Client thread/INFO] [WaypointStore] Loaded 0 waypoints from D:\Documenti\Curse\Minecraft\Instances\Pacchetto-Gennaio\journeymap\data\sp\New World~\waypoints
+[21:50:37] [Client thread/INFO] [JourneymapClient] Mapping started in D:\Documenti\Curse\Minecraft\Instances\Pacchetto-Gennaio\journeymap\data\sp\New World~\DIM0. Memory: 4766MB total, 1713MB free 
+[22:16:05] [Client thread/INFO] [JourneymapClient] Mapping halted in D:\Documenti\Curse\Minecraft\Instances\Pacchetto-Gennaio\journeymap\data\sp\New World~\DIM0
