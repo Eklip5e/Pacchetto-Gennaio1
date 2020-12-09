@@ -407,6 +407,83 @@
       "installedTargets": null
     },
     {
+      "addonID": 253449,
+      "gameInstanceID": "f97bb607-0aa3-4745-aad6-9095b0b33b98",
+      "installedFile": {
+        "id": 2568751,
+        "displayName": "Hwyla-1.8.26-B41_1.12.2.jar",
+        "fileName": "Hwyla-1.8.26-B41_1.12.2.jar",
+        "fileDate": "2018-06-02T22:55:49.297Z",
+        "fileLength": 453778,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2568/751/Hwyla-1.8.26-B41_1.12.2.jar",
+        "isAlternate": false,
+        "alternateFileId": 2568752,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 4216876035,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcp",
+            "fingerprint": 109170074,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "LICENSE.txt",
+            "fingerprint": 2985416683,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1803519354,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 1894937175,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 637705220,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "Hwyla-1.8.26-B41_1.12.2.jar"
+      },
+      "dateInstalled": "2020-12-09T21:43:18.5623823Z",
+      "dateUpdated": "2020-12-09T21:43:18.5733759Z",
+      "dateLastUpdateAttempted": "2020-12-09T21:43:18.5733759Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
+    },
+    {
       "addonID": 242872,
       "gameInstanceID": "f97bb607-0aa3-4745-aad6-9095b0b33b98",
       "installedFile": {
@@ -1500,77 +1577,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 270789,
-      "gameInstanceID": "f97bb607-0aa3-4745-aad6-9095b0b33b98",
-      "installedFile": {
-        "id": 2920436,
-        "displayName": "RedstoneFlux-1.12-2.1.1.1-universal.jar",
-        "fileName": "RedstoneFlux-1.12-2.1.1.1-universal.jar",
-        "fileDate": "2020-04-03T23:52:41.64Z",
-        "fileLength": 31802,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2920/436/RedstoneFlux-1.12-2.1.1.1-universal.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 3130516527,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "cofh",
-            "fingerprint": 3183414994,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 3959296951,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 1664817731,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 1893256567,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2017-09-18T05:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "RedstoneFlux-1.12-2.1.1.1-universal.jar"
-      },
-      "dateInstalled": "2020-12-09T15:33:29.925312Z",
-      "dateUpdated": "2020-12-09T15:33:30.0112618Z",
-      "dateLastUpdateAttempted": "2020-12-09T15:33:30.0112618Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": true,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 69162,
       "gameInstanceID": "f97bb607-0aa3-4745-aad6-9095b0b33b98",
       "installedFile": {
@@ -2431,102 +2437,6 @@
       "dateInstalled": "2020-12-09T14:45:27.0222986Z",
       "dateUpdated": "2020-12-09T14:45:27.0362916Z",
       "dateLastUpdateAttempted": "2020-12-09T14:45:27.0362916Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": true,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
-      "addonID": 245211,
-      "gameInstanceID": "f97bb607-0aa3-4745-aad6-9095b0b33b98",
-      "installedFile": {
-        "id": 2667280,
-        "displayName": "TheOneProbe - 1.12-1.4.28",
-        "fileName": "theoneprobe-1.12-1.4.28.jar",
-        "fileDate": "2019-01-31T18:42:38.827Z",
-        "fileLength": 301893,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2667/280/theoneprobe-1.12-1.4.28.jar",
-        "isAlternate": false,
-        "alternateFileId": 0,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 270789,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 244651,
-            "type": 2,
-            "fileId": 0
-          },
-          {
-            "id": 0,
-            "addonId": 227083,
-            "type": 2,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 903804330,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "mcjty",
-            "fingerprint": 51082930,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 1427744101,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 1194480308,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 266445579,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 2094495496,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "theoneprobe-1.12-1.4.28.jar"
-      },
-      "dateInstalled": "2020-12-09T14:21:21.7484956Z",
-      "dateUpdated": "2020-12-09T14:21:21.7562224Z",
-      "dateLastUpdateAttempted": "2020-12-09T14:21:21.7562224Z",
       "status": 4,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
@@ -4305,6 +4215,86 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 79287,
+      "gameInstanceID": "f97bb607-0aa3-4745-aad6-9095b0b33b98",
+      "installedFile": {
+        "id": 2481605,
+        "displayName": "WailaHarvestability-mc1.12-1.1.12.jar",
+        "fileName": "WailaHarvestability-mc1.12-1.1.12.jar",
+        "fileDate": "2017-09-19T10:37:18.613Z",
+        "fileLength": 31462,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2481/605/WailaHarvestability-mc1.12-1.1.12.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 253449,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2464251221,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "squeek",
+            "fingerprint": 1584608924,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 4022352604,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 3093763780,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 993638690,
+        "gameVersion": [
+          "1.12",
+          "1.12.1",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2017-06-07T05:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "WailaHarvestability-mc1.12-1.1.12.jar"
+      },
+      "dateInstalled": "2020-12-09T21:43:49.2035533Z",
+      "dateUpdated": "2020-12-09T21:43:49.4624054Z",
+      "dateLastUpdateAttempted": "2020-12-09T21:43:49.4624054Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 233019,
@@ -8669,102 +8659,6 @@
       "installedTargets": null
     },
     {
-      "addonID": 247111,
-      "gameInstanceID": "f97bb607-0aa3-4745-aad6-9095b0b33b98",
-      "installedFile": {
-        "id": 2887479,
-        "displayName": "topaddons-1.12.2-1.13.0.jar",
-        "fileName": "topaddons-1.12.2-1.13.0.jar",
-        "fileDate": "2020-02-23T18:24:20.24Z",
-        "fileLength": 243603,
-        "releaseType": 1,
-        "fileStatus": 4,
-        "downloadUrl": "https://edge.forgecdn.net/files/2887/479/topaddons-1.12.2-1.13.0.jar",
-        "isAlternate": false,
-        "alternateFileId": 2887480,
-        "dependencies": [
-          {
-            "id": 0,
-            "addonId": 245211,
-            "type": 3,
-            "fileId": 0
-          }
-        ],
-        "isAvailable": true,
-        "modules": [
-          {
-            "foldername": "META-INF",
-            "fingerprint": 2503536271,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "io",
-            "fingerprint": 1213342546,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "mcmod.info",
-            "fingerprint": 3753674183,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "topaddonslogo.png",
-            "fingerprint": 4209097068,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "assets",
-            "fingerprint": 3449926384,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "pack.mcmeta",
-            "fingerprint": 2508079726,
-            "type": 0,
-            "invalidFingerprint": false
-          },
-          {
-            "foldername": "LICENSE",
-            "fingerprint": 697443232,
-            "type": 0,
-            "invalidFingerprint": false
-          }
-        ],
-        "packageFingerprint": 594617711,
-        "gameVersion": [
-          "1.12.2"
-        ],
-        "hasInstallScript": false,
-        "isCompatibleWithClient": false,
-        "categorySectionPackageType": 0,
-        "restrictProjectFileAccess": 0,
-        "projectStatus": 0,
-        "projectId": 0,
-        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
-        "gameId": 0,
-        "isServerPack": false,
-        "FileNameOnDisk": "topaddons-1.12.2-1.13.0.jar"
-      },
-      "dateInstalled": "2020-12-09T14:22:08.2272875Z",
-      "dateUpdated": "2020-12-09T14:22:08.2352843Z",
-      "dateLastUpdateAttempted": "2020-12-09T14:22:08.2352843Z",
-      "status": 4,
-      "preferenceAutoInstallUpdates": null,
-      "preferenceAlternateFile": false,
-      "preferenceIsIgnored": false,
-      "isModified": true,
-      "isWorkingCopy": false,
-      "isFuzzyMatch": false,
-      "preferenceReleaseType": null,
-      "manifestName": null,
-      "installedTargets": null
-    },
-    {
       "addonID": 248787,
       "gameInstanceID": "f97bb607-0aa3-4745-aad6-9095b0b33b98",
       "installedFile": {
@@ -13075,6 +12969,77 @@
       "preferenceReleaseType": null,
       "manifestName": null,
       "installedTargets": null
+    },
+    {
+      "addonID": 245620,
+      "gameInstanceID": "f97bb607-0aa3-4745-aad6-9095b0b33b98",
+      "installedFile": {
+        "id": 2630384,
+        "displayName": "RealisticItemDrops-1.2.14.jar",
+        "fileName": "RealisticItemDrops-1.2.14.jar",
+        "fileDate": "2018-10-22T05:00:03.823Z",
+        "fileLength": 65733,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge-service.overwolf.wtf/files/2630/384/RealisticItemDrops-1.2.14.jar",
+        "isAlternate": false,
+        "alternateFileId": 2630385,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 2262806148,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "realdrops",
+            "fingerprint": 1971588832,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 522356771,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "title.png",
+            "fingerprint": 2011356780,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 1656616189,
+        "gameVersion": [
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "RealisticItemDrops-1.2.14.jar"
+      },
+      "dateInstalled": "2020-12-09T21:17:50.4593495Z",
+      "dateUpdated": "2020-12-09T21:17:50.4723304Z",
+      "dateLastUpdateAttempted": "2020-12-09T21:17:50.4723304Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": []
     },
     {
       "addonID": 282940,
