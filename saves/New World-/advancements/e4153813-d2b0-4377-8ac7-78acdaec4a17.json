@@ -97,12 +97,6 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/boat_fir": {
-    "criteria": {
-      "entered_water": "2020-12-09 22:01:08 +0100"
-    },
-    "done": true
-  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "extreme_hills_with_trees": "2020-12-09 21:56:17 +0100",
@@ -113,6 +107,12 @@
       "river": "2020-12-09 21:55:30 +0100"
     },
     "done": false
+  },
+  "biomesoplenty:recipes/transportation/boat_fir": {
+    "criteria": {
+      "entered_water": "2020-12-09 22:01:08 +0100"
+    },
+    "done": true
   },
   "minecraft:recipes/combat/diamond_leggings": {
     "criteria": {
@@ -234,15 +234,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/transportation/boat": {
-    "criteria": {
-      "entered_water": "2020-12-09 22:01:08 +0100"
-    },
-    "done": true
-  },
   "mowziesmobs:root": {
     "criteria": {
       "custom_test_name": "2020-12-09 21:50:52 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/boat": {
+    "criteria": {
+      "entered_water": "2020-12-09 22:01:08 +0100"
     },
     "done": true
   },
@@ -255,6 +255,12 @@
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
       "entered_water": "2020-12-09 22:01:08 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
+    "criteria": {
+      "has_gold_ingot": "2020-12-09 21:56:32 +0100"
     },
     "done": true
   },
@@ -273,12 +279,6 @@
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
       "entered_water": "2020-12-09 22:01:08 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/light_weighted_pressure_plate": {
-    "criteria": {
-      "has_gold_ingot": "2020-12-09 21:56:32 +0100"
     },
     "done": true
   },
@@ -342,6 +342,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/diamond_shovel": {
+    "criteria": {
+      "has_diamond": "2020-12-09 21:56:39 +0100"
+    },
+    "done": true
+  },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "skeleton": "2020-12-09 21:59:15 +0100",
@@ -349,12 +355,6 @@
       "zombie": "2020-12-09 21:59:25 +0100"
     },
     "done": false
-  },
-  "minecraft:recipes/tools/diamond_shovel": {
-    "criteria": {
-      "has_diamond": "2020-12-09 21:56:39 +0100"
-    },
-    "done": true
   },
   "minecraft:recipes/misc/gold_nugget": {
     "criteria": {
@@ -452,15 +452,15 @@
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/boat_hellbark": {
-    "criteria": {
-      "entered_water": "2020-12-09 22:01:08 +0100"
-    },
-    "done": true
-  },
   "minecraft:story/mine_diamond": {
     "criteria": {
       "diamond": "2020-12-09 21:56:39 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_hellbark": {
+    "criteria": {
+      "entered_water": "2020-12-09 22:01:08 +0100"
     },
     "done": true
   },
