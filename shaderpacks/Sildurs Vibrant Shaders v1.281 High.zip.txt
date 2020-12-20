@@ -1,0 +1,22 @@
+#Sat Dec 19 12:52:48 CET 2020
+emissive_B=0.1
+shadowDistance=70.0
+shadowMapResolution=512
+shadow_samples=9
+Nearshadowplane=0.045
+uFogDensity=15.0
+cloud_height=272.0
+DoF_Strength=80
+WeatherAngle=true
+Moonlight=0.006
+waves_amplitude=0.55
+MB_strength=0.008
+Farshadowplane=0.8
+Rain_Drops=false
+wFogDensity=70.0
+emissive_R=1.4
+Underwater_Fog=false
+Adaptive_sharpening=true
+cloudsIT=8
+emissive_G=0.5
+MobsFlashRed=false

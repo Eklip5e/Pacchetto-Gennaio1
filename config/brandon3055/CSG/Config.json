@@ -1,0 +1,9 @@
+{
+  "inventory": {
+    "0:5": "minecraft:written_book,1,0,{pages:[\"{\\\"text\\\":\\\"Ciao!  Benvenuto nella 3 stagione moddata, una volta chiamata MhanzCraft, ma oggi no! Via macchinari antiestetici, Via oggetti inutili! e diamo il via ad un full RPG con tanto di quest, il tuo starter però... sembra un po\\\\u0027 povero, datti un\\\\u0027occhiata  -\\\\u003e\\\\n\\\\n\\\\n\\\"}\",\"{\\\"text\\\":\\\"attorno, controlla le quest, ammazza i mob e conquista il mondo attraversando oltre 20 dimensioni e tantissime armi ed armature\\\\nBUONA PERMANENZA\\\\n\\\\n-Sphynx\\\\n\\\"}\"],author:\"SphynxEyes\",title:\"Leggimi!\",resolved:1b}",
+    "0:6": "mysticalworld:silver_knife,1,0,{Quality:{}}",
+    "0:8": "ftbquests:book,1,0,{\"akashictome:definedMod\":\"ftbquests\"}",
+    "0:7": "akashictome:tome,1,0,{\"akashictome:data\":{extendedcrafting:{id:\"extendedcrafting:guide\",Count:1b,tag:{TopicsPage:0,\"akashictome:definedMod\":\"extendedcrafting\",EntryId:0,EntryPage:0},Damage:0s},levelup2:{id:\"levelup2:skillbook\",Count:1b,tag:{\"akashictome:definedMod\":\"levelup2\"},Damage:0s},mysticalworld:{id:\"patchouli:guide_book\",Count:1b,tag:{\"akashictome:definedMod\":\"mysticalworld\",\"patchouli:book\":\"mysticalworld:world_guide\"},Damage:0s},cyclicmagic:{id:\"guideapi:cyclicmagic-guide\",Count:1b,tag:{\"akashictome:definedMod\":\"cyclicmagic\"},Damage:0s},solcarrot:{id:\"solcarrot:food_book\",Count:1b,tag:{\"akashictome:definedMod\":\"solcarrot\"},Damage:0s}}}",
+    "0:4": "minecraft:torch"
+  }
+}

@@ -1,189 +1,406 @@
 {
-  "biomesoplenty:recipes/transportation/boat_ethereal": {
+  "minecraft:recipes/tools/fishing_rod": {
     "criteria": {
-      "entered_water": "2020-12-09 21:08:59 +0100"
+      "has_string": "2020-12-11 13:56:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2020-12-11 13:56:37 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_wool": {
+    "criteria": {
+      "has_white_wool": "2020-12-11 13:52:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/string_to_wool": {
+    "criteria": {
+      "has_string": "2020-12-11 13:56:37 +0100"
     },
     "done": true
   },
   "biomesoplenty:recipes/transportation/boat_mahogany": {
     "criteria": {
-      "entered_water": "2020-12-09 21:08:59 +0100"
+      "entered_water": "2020-12-11 12:46:55 +0100"
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/boat_cherry": {
+  "mowziesmobs:kill_frostmaw": {
     "criteria": {
-      "entered_water": "2020-12-09 21:08:59 +0100"
+      "frostmaw": "2020-12-11 13:50:58 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/transportation/dark_oak_boat": {
+  "minecraft:recipes/building_blocks/lime_wool": {
     "criteria": {
-      "entered_water": "2020-12-09 21:08:59 +0100"
+      "has_white_wool": "2020-12-11 13:52:19 +0100"
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/boat_jacaranda": {
+  "minecraft:adventure/kill_a_mob": {
     "criteria": {
-      "entered_water": "2020-12-09 21:08:59 +0100"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/boat_umbran": {
-    "criteria": {
-      "entered_water": "2020-12-09 21:08:59 +0100"
+      "spider": "2020-12-11 13:56:35 +0100"
     },
     "done": true
   },
   "mysticalworld:root": {
     "criteria": {
-      "auto": "2020-12-09 21:08:06 +0100"
+      "auto": "2020-12-11 12:39:19 +0100"
     },
     "done": true
   },
-  "aoa3:overworld/by_the_books": {
+  "minecraft:recipes/building_blocks/black_wool": {
     "criteria": {
-      "legitimate": "2020-12-09 21:08:05 +0100"
+      "has_white_wool": "2020-12-11 13:52:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_wool": {
+    "criteria": {
+      "has_white_wool": "2020-12-11 13:52:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2020-12-11 13:52:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_wool": {
+    "criteria": {
+      "has_white_wool": "2020-12-11 13:52:19 +0100"
+    },
+    "done": true
+  },
+  "mowziesmobs:steal_ice_crystal": {
+    "criteria": {
+      "steal_crystal": "2020-12-11 13:47:43 +0100"
     },
     "done": true
   },
   "biomesoplenty:biomesoplenty/all_biomes": {
     "criteria": {
-      "gravel_beach": "2020-12-09 21:20:17 +0100",
-      "crag": "2020-12-09 21:35:55 +0100"
+      "shrubland": "2020-12-11 14:33:53 +0100",
+      "highland": "2020-12-11 12:39:19 +0100",
+      "cold_desert": "2020-12-11 13:56:08 +0100",
+      "cherry_blossom_grove": "2020-12-11 12:43:25 +0100",
+      "snowy_forest": "2020-12-11 13:43:49 +0100",
+      "snowy_coniferous_forest": "2020-12-11 13:58:06 +0100"
     },
     "done": false
   },
-  "aoa3:overworld/root": {
+  "minecraft:recipes/building_blocks/brown_wool": {
     "criteria": {
-      "playerjoin": "2020-12-09 21:08:05 +0100"
+      "has_white_wool": "2020-12-11 13:52:19 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_fir": {
+    "criteria": {
+      "entered_water": "2020-12-11 12:46:55 +0100"
     },
     "done": true
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
-      "taiga": "2020-12-09 21:08:06 +0100",
-      "river": "2020-12-09 21:09:00 +0100"
+      "frozen_river": "2020-12-11 13:44:20 +0100",
+      "taiga_cold_hills": "2020-12-11 14:02:54 +0100",
+      "beaches": "2020-12-11 12:58:03 +0100",
+      "taiga": "2020-12-11 13:02:29 +0100",
+      "redwood_taiga_hills": "2020-12-11 13:02:43 +0100",
+      "taiga_hills": "2020-12-11 14:00:24 +0100",
+      "taiga_cold": "2020-12-11 14:01:37 +0100",
+      "ocean": "2020-12-11 12:58:04 +0100",
+      "extreme_hills": "2020-12-11 14:33:31 +0100",
+      "river": "2020-12-11 13:02:25 +0100"
     },
     "done": false
   },
-  "biomesoplenty:recipes/transportation/boat_fir": {
+  "biomesoplenty:recipes/buildingblocks/cherry_planks": {
     "criteria": {
-      "entered_water": "2020-12-09 21:08:59 +0100"
+      "has_log": "2020-12-11 12:42:13 +0100"
     },
     "done": true
   },
-  "divinerpg:overworld/root": {
+  "minecraft:recipes/building_blocks/magenta_wool": {
     "criteria": {
-      "divinerpg": "2020-12-09 21:08:06 +0100"
+      "has_white_wool": "2020-12-11 13:52:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2020-12-11 13:52:19 +0100"
     },
     "done": true
   },
   "iceandfire:iceandfire/root": {
     "criteria": {
-      "tick": "2020-12-09 21:08:13 +0100"
+      "tick": "2020-12-11 12:39:37 +0100"
     },
     "done": true
   },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
-      "has_lots_of_items": "2020-12-09 21:08:06 +0100"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/boat_magic": {
-    "criteria": {
-      "entered_water": "2020-12-09 21:08:59 +0100"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/boat_ebony": {
-    "criteria": {
-      "entered_water": "2020-12-09 21:08:59 +0100"
+      "has_lots_of_items": "2020-12-11 12:39:19 +0100"
     },
     "done": true
   },
   "minecraft:recipes/transportation/birch_boat": {
     "criteria": {
-      "entered_water": "2020-12-09 21:08:59 +0100"
+      "entered_water": "2020-12-11 12:46:55 +0100"
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/boat_hellbark": {
+  "minecraft:recipes/decorations/painting": {
     "criteria": {
-      "entered_water": "2020-12-09 21:08:59 +0100"
+      "has_wool": "2020-12-11 13:52:19 +0100"
     },
     "done": true
   },
   "biomesoplenty:recipes/transportation/boat_willow": {
     "criteria": {
-      "entered_water": "2020-12-09 21:08:59 +0100"
+      "entered_water": "2020-12-11 12:46:55 +0100"
     },
     "done": true
   },
   "biomesoplenty:recipes/transportation/boat_sacred_oak": {
     "criteria": {
-      "entered_water": "2020-12-09 21:08:59 +0100"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/boat_mangrove": {
-    "criteria": {
-      "entered_water": "2020-12-09 21:08:59 +0100"
+      "entered_water": "2020-12-11 12:46:55 +0100"
     },
     "done": true
   },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
-      "entered_water": "2020-12-09 21:08:59 +0100"
+      "entered_water": "2020-12-11 12:46:55 +0100"
     },
     "done": true
   },
   "biomesoplenty:recipes/transportation/boat_pine": {
     "criteria": {
-      "entered_water": "2020-12-09 21:08:59 +0100"
-    },
-    "done": true
-  },
-  "biomesoplenty:recipes/transportation/boat_palm": {
-    "criteria": {
-      "entered_water": "2020-12-09 21:08:59 +0100"
+      "entered_water": "2020-12-11 12:46:55 +0100"
     },
     "done": true
   },
   "biomesoplenty:recipes/transportation/boat_redwood": {
     "criteria": {
-      "entered_water": "2020-12-09 21:08:59 +0100"
+      "entered_water": "2020-12-11 12:46:55 +0100"
     },
     "done": true
   },
-  "mowziesmobs:root": {
+  "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
-      "custom_test_name": "2020-12-09 21:08:13 +0100"
+      "has_white_wool": "2020-12-11 13:52:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2020-12-11 13:53:47 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2020-12-11 12:41:23 +0100"
     },
     "done": true
   },
   "minecraft:recipes/transportation/boat": {
     "criteria": {
-      "entered_water": "2020-12-09 21:08:59 +0100"
+      "entered_water": "2020-12-11 12:46:55 +0100"
     },
     "done": true
   },
-  "biomesoplenty:recipes/transportation/boat_eucalyptus": {
+  "mowziesmobs:root": {
     "criteria": {
-      "entered_water": "2020-12-09 21:08:59 +0100"
+      "custom_test_name": "2020-12-11 12:39:37 +0100"
     },
     "done": true
   },
   "minecraft:recipes/transportation/jungle_boat": {
     "criteria": {
-      "entered_water": "2020-12-09 21:08:59 +0100"
+      "entered_water": "2020-12-11 12:46:55 +0100"
     },
     "done": true
   },
   "minecraft:recipes/transportation/spruce_boat": {
     "criteria": {
-      "entered_water": "2020-12-09 21:08:59 +0100"
+      "entered_water": "2020-12-11 12:46:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_wool": {
+    "criteria": {
+      "has_white_wool": "2020-12-11 13:52:19 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_ethereal": {
+    "criteria": {
+      "entered_water": "2020-12-11 12:46:55 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_cherry": {
+    "criteria": {
+      "entered_water": "2020-12-11 12:46:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "entered_water": "2020-12-11 12:46:55 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_jacaranda": {
+    "criteria": {
+      "entered_water": "2020-12-11 12:46:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_wool": {
+    "criteria": {
+      "has_white_wool": "2020-12-11 13:52:19 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_umbran": {
+    "criteria": {
+      "entered_water": "2020-12-11 12:46:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "witch": "2020-12-11 13:57:38 +0100",
+      "spider": "2020-12-11 13:56:35 +0100"
+    },
+    "done": false
+  },
+  "minecraft:recipes/building_blocks/gray_wool": {
+    "criteria": {
+      "has_white_wool": "2020-12-11 13:52:19 +0100"
+    },
+    "done": true
+  },
+  "aoa3:overworld/charger_safari": {
+    "criteria": {
+      "kill_snow_charger": "2020-12-11 13:53:46 +0100"
+    },
+    "done": false
+  },
+  "aoa3:overworld/by_the_books": {
+    "criteria": {
+      "legitimate": "2020-12-11 12:39:10 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2020-12-11 13:52:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2020-12-11 13:56:37 +0100"
+    },
+    "done": true
+  },
+  "aoa3:overworld/root": {
+    "criteria": {
+      "playerjoin": "2020-12-11 12:39:10 +0100"
+    },
+    "done": true
+  },
+  "divinerpg:overworld/root": {
+    "criteria": {
+      "divinerpg": "2020-12-11 12:39:19 +0100"
+    },
+    "done": true
+  },
+  "aoa3:completionist/my_first_level": {
+    "criteria": {
+      "firstlevel": "2020-12-11 13:52:01 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_magic": {
+    "criteria": {
+      "entered_water": "2020-12-11 12:46:55 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_ebony": {
+    "criteria": {
+      "entered_water": "2020-12-11 12:46:55 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_hellbark": {
+    "criteria": {
+      "entered_water": "2020-12-11 12:46:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2020-12-11 13:52:19 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_mangrove": {
+    "criteria": {
+      "entered_water": "2020-12-11 12:46:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2020-12-11 12:52:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2020-12-11 13:52:19 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2020-12-11 13:52:19 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_palm": {
+    "criteria": {
+      "entered_water": "2020-12-11 12:46:55 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2020-12-11 13:52:19 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/transportation/boat_eucalyptus": {
+    "criteria": {
+      "entered_water": "2020-12-11 12:46:55 +0100"
+    },
+    "done": true
+  },
+  "silentgear:root": {
+    "criteria": {
+      "get_item": "2020-12-11 12:52:27 +0100"
     },
     "done": true
   }

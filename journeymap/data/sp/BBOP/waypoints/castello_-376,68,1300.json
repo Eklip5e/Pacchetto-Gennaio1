@@ -1,0 +1,18 @@
+{
+  "id": "castello_-376,68,1300",
+  "name": "castello",
+  "icon": "waypoint-normal.png",
+  "x": -376,
+  "y": 68,
+  "z": 1300,
+  "r": 34,
+  "g": 214,
+  "b": 241,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}
