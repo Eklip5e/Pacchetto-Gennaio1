@@ -1,0 +1,57 @@
+{
+	title: "Semplice semplice come una marmotta",
+	x: -9.0d,
+	y: -1.0d,
+	text: [
+		"Costruisci i normali utensili di pietra per poter iniziare"
+	],
+	dependencies: [
+		"b60592cb",
+		"3c6e6901"
+	],
+	tasks: [{
+		uid: "9a608f4f",
+		type: "item",
+		items: [{
+			item: "minecraft:stone_sword"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "1f5f678e",
+		type: "item",
+		items: [{
+			item: "minecraft:stone_pickaxe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "4a3d8603",
+		type: "item",
+		items: [{
+			item: "minecraft:stone_axe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "d4ae0c4d",
+		type: "item",
+		items: [{
+			item: "minecraft:stone_hoe"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	},
+	{
+		uid: "929cdc34",
+		type: "item",
+		items: [{
+			item: "minecraft:stone_shovel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

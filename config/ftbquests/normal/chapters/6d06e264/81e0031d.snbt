@@ -1,0 +1,13 @@
+{
+	x: -1.0d,
+	y: -5.5d,
+	tasks: [{
+		uid: "f81f9e01",
+		type: "item",
+		items: [{
+			item: "improvedbackpacks:ender_backpack"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

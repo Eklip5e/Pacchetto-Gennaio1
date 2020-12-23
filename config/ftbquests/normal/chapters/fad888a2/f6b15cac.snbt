@@ -1,0 +1,17 @@
+{
+	title: "L'inferno senza Dante, Non è un inferno.",
+	x: -7.5d,
+	y: -0.5d,
+	text: [
+		"Attraversa il portale ed entra nel Nether."
+	],
+	dependencies: [
+		"223b1220"
+	],
+	dependency_requirement: "one_started",
+	tasks: [{
+		uid: "6f9460d4",
+		type: "dimension",
+		dim: -1
+	}]
+}

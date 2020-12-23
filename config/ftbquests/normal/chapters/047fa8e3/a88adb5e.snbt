@@ -1,0 +1,19 @@
+{
+	title: "Lead ma non Lead",
+	x: -12.0d,
+	y: 2.0d,
+	text: [
+		"Raccogli 16 Blocchi grezzi di Lead e cucinali per ottenerne i lingotti."
+	],
+	dependencies: [
+		"9f35419b"
+	],
+	tasks: [{
+		uid: "108c256a",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal 1 2"
+		}],
+		count: 16L
+	}]
+}

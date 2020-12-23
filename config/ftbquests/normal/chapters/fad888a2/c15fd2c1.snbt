@@ -1,0 +1,19 @@
+{
+	title: "Ma che roba è? La Mirabilandia della vita?",
+	x: -7.5d,
+	y: -2.5d,
+	text: [
+		"Ottieni 9 Heart Crystal Shard ammazzando diversi mob (la percentuale è bassa quindi non è sicuro che esca alla prima botta)"
+	],
+	dependencies: [
+		"605c66f3"
+	],
+	tasks: [{
+		uid: "15fc07c0",
+		type: "item",
+		items: [{
+			item: "scalinghealth:crystalshard"
+		}],
+		count: 9L
+	}]
+}

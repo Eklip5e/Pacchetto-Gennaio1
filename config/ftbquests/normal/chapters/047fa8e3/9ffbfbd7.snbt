@@ -1,0 +1,19 @@
+{
+	title: "Da Pietra a Ferro è n'attimo!",
+	x: -10.5d,
+	y: 0.5d,
+	text: [
+		"Raccogli 16 Blocchi di ferro grezzo e mettili a cucinare per ottenere i lingotti."
+	],
+	dependencies: [
+		"cfc84b7b"
+	],
+	tasks: [{
+		uid: "cf2c4e46",
+		type: "item",
+		items: [{
+			item: "minecraft:iron_ingot"
+		}],
+		count: 16L
+	}]
+}

@@ -1,0 +1,15 @@
+{
+	x: -6.0d,
+	y: -0.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"dfe6c402"
+	],
+	tasks: [{
+		uid: "8b940871",
+		type: "item",
+		items: [{
+			item: "improvedbackpacks:upgrade"
+		}]
+	}]
+}

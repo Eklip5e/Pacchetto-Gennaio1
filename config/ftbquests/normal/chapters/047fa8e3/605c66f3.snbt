@@ -1,0 +1,19 @@
+{
+	title: "SBRILLUCCICA UUUUUUUU!",
+	x: -9.0d,
+	y: 2.0d,
+	text: [
+		"Raccogli 16 diamanti "
+	],
+	dependencies: [
+		"9ffbfbd7"
+	],
+	tasks: [{
+		uid: "391932b8",
+		type: "item",
+		items: [{
+			item: "minecraft:diamond"
+		}],
+		count: 16L
+	}]
+}

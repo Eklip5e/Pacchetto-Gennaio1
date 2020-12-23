@@ -1,0 +1,28 @@
+{
+	title: "Obs... Ob- Obbrossidiana? Eh?",
+	x: -7.5d,
+	y: 3.5d,
+	text: [
+		"Prendi 20 blocchi d'ossidiana e crea un portale!"
+	],
+	dependencies: [
+		"605c66f3"
+	],
+	tasks: [{
+		uid: "58999648",
+		type: "item",
+		items: [{
+			item: "minecraft:obsidian"
+		}],
+		count: 20L
+	},
+	{
+		uid: "a02a01ce",
+		type: "item",
+		items: [{
+			item: "minecraft:flint_and_steel"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

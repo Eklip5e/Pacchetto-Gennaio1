@@ -1,0 +1,18 @@
+{
+	title: "La prova che i gatti hanno 9 vite",
+	x: -7.5d,
+	y: -4.0d,
+	text: [
+		"Con 9 Heart Crystal Shard, crafta un Heart Container e mangialo per aumentare la tua vita"
+	],
+	dependencies: [
+		"c15fd2c1"
+	],
+	tasks: [{
+		uid: "9218b6b0",
+		type: "item",
+		items: [{
+			item: "scalinghealth:heartcontainer"
+		}]
+	}]
+}

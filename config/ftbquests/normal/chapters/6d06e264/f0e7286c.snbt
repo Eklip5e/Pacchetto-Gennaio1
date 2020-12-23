@@ -1,0 +1,132 @@
+{
+	title: "Storage Drawer",
+	icon: {
+		id: "storagedrawers:basicdrawers",
+		tag: {
+			material: "oak"
+		}
+	},
+	x: -5.5d,
+	y: -2.5d,
+	text: [
+		""
+	],
+	tasks: [{
+		uid: "0ca74d15",
+		type: "item",
+		items: [{
+			id: "storagedrawers:basicdrawers",
+			tag: {
+				material: "oak"
+			}
+		},
+		{
+			id: "storagedrawers:basicdrawers",
+			tag: {
+				material: "spruce"
+			}
+		},
+		{
+			id: "storagedrawers:basicdrawers",
+			tag: {
+				material: "birch"
+			}
+		},
+		{
+			id: "storagedrawers:basicdrawers",
+			tag: {
+				material: "jungle"
+			}
+		},
+		{
+			id: "storagedrawers:basicdrawers",
+			tag: {
+				material: "acacia"
+			}
+		},
+		{
+			id: "storagedrawersextra:extra_drawers",
+			tag: {
+				material: "biomesoplenty:sacredoak"
+			}
+		},
+		{
+			id: "storagedrawersextra:extra_drawers",
+			tag: {
+				material: "biomesoplenty:cherry"
+			}
+		},
+		{
+			id: "storagedrawersextra:extra_drawers",
+			tag: {
+				material: "biomesoplenty:dark"
+			}
+		},
+		{
+			id: "storagedrawersextra:extra_drawers",
+			tag: {
+				material: "biomesoplenty:fir"
+			}
+		},
+		{
+			id: "storagedrawersextra:extra_drawers",
+			tag: {
+				material: "biomesoplenty:ethereal"
+			}
+		},
+		{
+			id: "storagedrawersextra:extra_drawers",
+			tag: {
+				material: "biomesoplenty:magic"
+			}
+		},
+		{
+			id: "storagedrawersextra:extra_drawers",
+			tag: {
+				material: "biomesoplenty:mangrove"
+			}
+		},
+		{
+			id: "storagedrawersextra:extra_drawers",
+			tag: {
+				material: "biomesoplenty:palm"
+			}
+		},
+		{
+			id: "storagedrawersextra:extra_drawers",
+			tag: {
+				material: "biomesoplenty:redwood"
+			}
+		},
+		{
+			id: "storagedrawersextra:extra_drawers",
+			tag: {
+				material: "biomesoplenty:willow"
+			}
+		},
+		{
+			id: "storagedrawersextra:extra_drawers",
+			tag: {
+				material: "biomesoplenty:hellbark"
+			}
+		},
+		{
+			id: "storagedrawersextra:extra_drawers",
+			tag: {
+				material: "biomesoplenty:jacaranda"
+			}
+		},
+		{
+			id: "storagedrawersextra:extra_drawers",
+			tag: {
+				material: "biomesoplenty:ebony"
+			}
+		},
+		{
+			id: "storagedrawersextra:extra_drawers",
+			tag: {
+				material: "immersiveengineering:immeng_treated"
+			}
+		}]
+	}]
+}

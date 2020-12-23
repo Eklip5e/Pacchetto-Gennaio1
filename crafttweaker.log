@@ -13,9 +13,9 @@
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: recipes.zs}
 [INITIALIZATION][CLIENT][ERROR] recipes.zs:11 > 2 methods available but none matches the parameters (ZenTypeNative: crafttweaker.item.IIngredient, ZenTypeNative: crafttweaker.item.IIngredient[])
 This is usually an error in your script, not in the mod
-addShapeless(string, ZenTypeNative: crafttweaker.item.IItemStack, ZenTypeNative: crafttweaker.item.IIngredient[], Optional ZenTypeNative: crafttweaker.recipes.IRecipeFunction, Optional ZenTypeNative: crafttweaker.recipes.IRecipeAction)
 addShapeless(ZenTypeNative: crafttweaker.item.IItemStack, ZenTypeNative: crafttweaker.item.IIngredient[], Optional ZenTypeNative: crafttweaker.recipes.IRecipeFunction, Optional ZenTypeNative: crafttweaker.recipes.IRecipeAction)
-[INITIALIZATION][CLIENT][INFO] Completed script loading in: 442ms
+addShapeless(string, ZenTypeNative: crafttweaker.item.IItemStack, ZenTypeNative: crafttweaker.item.IIngredient[], Optional ZenTypeNative: crafttweaker.recipes.IRecipeFunction, Optional ZenTypeNative: crafttweaker.recipes.IRecipeAction)
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 369ms
 [POSTINITIALIZATION][CLIENT][INFO] Removing recipes for various outputs
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Bound Leather with name ct_shaped515031123
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Oak Chest with name ct_shaped-2093490674

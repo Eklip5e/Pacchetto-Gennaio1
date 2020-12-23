@@ -1,0 +1,19 @@
+{
+	title: "Questo non è ferro...",
+	x: -13.5d,
+	y: 0.5d,
+	text: [
+		"Raccogli 16 Blocchi grezzi di Copper e cucinali per ottenerne i lingotti."
+	],
+	tasks: [{
+		uid: "9e878aa5",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal"
+		},
+		{
+			item: "mysticalworld:copper_ingot"
+		}],
+		count: 16L
+	}]
+}

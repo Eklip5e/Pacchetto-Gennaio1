@@ -1,0 +1,14 @@
+{
+	x: -3.0d,
+	y: 2.5d,
+	dependencies: [
+		"f0e9c217"
+	],
+	tasks: [{
+		uid: "9b7c4aae",
+		type: "item",
+		items: [{
+			item: "improvedbackpacks:upgrade 1 3"
+		}]
+	}]
+}

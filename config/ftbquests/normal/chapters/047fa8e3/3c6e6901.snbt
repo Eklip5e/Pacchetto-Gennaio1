@@ -1,0 +1,20 @@
+{
+	title: "La stecca che crafta",
+	x: -7.5d,
+	y: -2.5d,
+	text: [
+		"Crafta un Handheld Crafting Table con solo uno stick ed una crafting table, una crafting table portatile e sempre a portata di mano!"
+	],
+	dependencies: [
+		"fda910d7"
+	],
+	tasks: [{
+		uid: "3b7af022",
+		type: "item",
+		items: [{
+			item: "extendedcrafting:handheld_table"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

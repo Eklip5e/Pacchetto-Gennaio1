@@ -4,7 +4,7 @@ mouseSensitivity:0.5
 fov:0.0
 gamma:1.0
 saturation:0.0
-renderDistance:13
+renderDistance:12
 guiScale:0
 particles:2
 bobView:true
@@ -90,6 +90,7 @@ key_key.cstats:0
 key_key.resources:24
 key_key.skills:0
 key_key.adventGui:211
+key_quark.keybind.lockBuilding:37
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:44
 key_quark.keybind.chestSort:0
@@ -97,7 +98,6 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
-key_quark.keybind.lockBuilding:37
 key_keybind.baublesinventory:48
 key_keys.baubleshud.config:73
 key_bloodmagic.keybind.open_holding:35
@@ -110,7 +110,6 @@ key_key.next_item.desc:0
 key_key.previous_item.desc:0
 key_key.open_danknull.desc:0
 key_key.togglehud.desc:0
-key_doubleslabs.key.toggleVerticalSlabPlacement:58
 key_Open Menu:25
 key_Toggle Freeze Effect:19
 key_Enable/Disable:0
@@ -131,7 +130,6 @@ key_Difficulty Meter - Show:49
 key_Difficulty Meter - Show Always:49:SHIFT
 key_Test:77
 key_key.toastcontrol.clear:36
-key_walljump.key.walljump:42
 key_dshuds.keybind.SelectionBox:48
 key_dshuds.keybind.LightLevel:65
 key_dshuds.keybind.ChunkBorders:67
@@ -176,6 +174,8 @@ key_waila.keybind.recipe:81
 key_waila.keybind.usage:75
 key_FpsReducer.key.guiOpen:207
 key_FpsReducer.key.forceIdle:197
+key_key.immersiveengineering.magnetEquip:31
+key_key.immersiveengineering.chemthrowerSwitch:0
 key_key.dragon_fireAttack:19
 key_key.dragon_strike:34
 key_key.dragon_down:45
@@ -186,8 +186,6 @@ key_key.refinedstorage.openWirelessGrid:0
 key_key.refinedstorage.openWirelessFluidGrid:0
 key_key.refinedstorage.openPortableGrid:0
 key_key.refinedstorage.openWirelessCraftingMonitor:0
-key_key.immersiveengineering.magnetEquip:31
-key_key.immersiveengineering.chemthrowerSwitch:0
 key_key.immersiveintelligence.mgScope:44
 key_Open Backpack:48
 key_key.inventoryhud.toggle:23

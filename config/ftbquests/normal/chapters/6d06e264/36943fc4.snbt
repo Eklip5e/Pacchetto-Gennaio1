@@ -1,0 +1,15 @@
+{
+	x: -9.0d,
+	y: 1.5d,
+	tasks: [{
+		uid: "4e3d8f46",
+		type: "item",
+		items: [{
+			id: "refinedstorage:controller",
+			tag: {
+				Energy: 0
+			}
+		}],
+		ignore_nbt: 1b
+	}]
+}

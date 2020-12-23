@@ -1,0 +1,15 @@
+{
+	x: 1.5d,
+	y: -0.5d,
+	dependencies: [
+		"533f7d49"
+	],
+	tasks: [{
+		uid: "2385f024",
+		type: "item",
+		items: [{
+			item: "rebornstorage:storagecell 1 2"
+		}],
+		ignore_nbt: 1b
+	}]
+}

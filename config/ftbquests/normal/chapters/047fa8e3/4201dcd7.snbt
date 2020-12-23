@@ -1,0 +1,21 @@
+{
+	title: "E se non scotta, Scioglie!",
+	x: -6.0d,
+	y: 2.0d,
+	text: [
+		"Crea un secchio di ferro e riempilo con della lava"
+	],
+	hide_dependency_lines: true,
+	dependencies: [
+		"9ffbfbd7"
+	],
+	tasks: [{
+		uid: "70707feb",
+		type: "item",
+		items: [{
+			item: "minecraft:lava_bucket"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

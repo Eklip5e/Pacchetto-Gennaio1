@@ -1,0 +1,15 @@
+{
+	x: 0.5d,
+	y: 0.5d,
+	dependencies: [
+		"2969384b"
+	],
+	tasks: [{
+		uid: "d28e9032",
+		type: "item",
+		items: [{
+			item: "morerefinedstorage:storagecell 1 1"
+		}],
+		ignore_nbt: 1b
+	}]
+}

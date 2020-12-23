@@ -1,0 +1,17 @@
+{
+	title: "Serial Killer",
+	x: -10.0d,
+	y: -0.5d,
+	text: [
+		"Ammazza 15 Zombie Pigman evitando di farti ammazzare"
+	],
+	dependencies: [
+		"f6b15cac"
+	],
+	tasks: [{
+		uid: "b47bfacf",
+		type: "kill",
+		entity: "minecraft:zombie_pigman",
+		value: 10L
+	}]
+}

@@ -1,0 +1,11 @@
+{
+	x: -8.5d,
+	y: -0.5d,
+	tasks: [{
+		uid: "2e17f476",
+		type: "item",
+		items: [{
+			item: "actuallyadditions:block_giant_chest"
+		}]
+	}]
+}

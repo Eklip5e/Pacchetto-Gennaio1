@@ -1,0 +1,16 @@
+{
+	x: 1.5d,
+	y: -2.5d,
+	hide_dependency_lines: true,
+	dependencies: [
+		"98c0e497"
+	],
+	tasks: [{
+		uid: "76698d91",
+		type: "item",
+		items: [{
+			item: "refinedstorage:storage_disk"
+		}],
+		ignore_nbt: 1b
+	}]
+}

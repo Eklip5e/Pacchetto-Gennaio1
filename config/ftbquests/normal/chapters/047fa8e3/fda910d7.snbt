@@ -1,0 +1,80 @@
+{
+	title: "Un Nuovo Inizio",
+	x: -9.0d,
+	y: -4.0d,
+	text: [
+		"Raccogli 32 blocchi di un qualsiasi legno e crafta gli attrezzi basilari per procedere"
+	],
+	tasks: [{
+		uid: "3d770f21",
+		type: "item",
+		title: "Un Nuovo Inizio",
+		items: [{
+			item: "minecraft:log"
+		},
+		{
+			item: "minecraft:log 1 1"
+		},
+		{
+			item: "minecraft:log 1 2"
+		},
+		{
+			item: "minecraft:log 1 3"
+		},
+		{
+			item: "minecraft:log2"
+		},
+		{
+			item: "minecraft:log2 1 1"
+		},
+		{
+			item: "biomesoplenty:log_0 1 4"
+		},
+		{
+			item: "biomesoplenty:log_0 1 5"
+		},
+		{
+			item: "biomesoplenty:log_0 1 6"
+		},
+		{
+			item: "biomesoplenty:log_0 1 7"
+		},
+		{
+			item: "biomesoplenty:log_1 1 4"
+		},
+		{
+			item: "biomesoplenty:log_1 1 5"
+		},
+		{
+			item: "biomesoplenty:log_1 1 6"
+		},
+		{
+			item: "biomesoplenty:log_1 1 7"
+		},
+		{
+			item: "biomesoplenty:log_2 1 4"
+		},
+		{
+			item: "biomesoplenty:log_2 1 5"
+		},
+		{
+			item: "biomesoplenty:log_2 1 6"
+		},
+		{
+			item: "biomesoplenty:log_2 1 7"
+		},
+		{
+			item: "biomesoplenty:log_3 1 4"
+		},
+		{
+			item: "biomesoplenty:log_3 1 5"
+		},
+		{
+			item: "biomesoplenty:log_3 1 6"
+		},
+		{
+			item: "biomesoplenty:log_3 1 7"
+		}],
+		count: 32L
+	}]
+}
