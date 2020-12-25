@@ -4,7 +4,7 @@ mouseSensitivity:0.5
 fov:0.0
 gamma:1.0
 saturation:0.0
-renderDistance:12
+renderDistance:13
 guiScale:0
 particles:2
 bobView:true
@@ -90,7 +90,6 @@ key_key.cstats:0
 key_key.resources:24
 key_key.skills:0
 key_key.adventGui:211
-key_quark.keybind.lockBuilding:37
 key_quark.keybind.dropoff:0
 key_quark.keybind.changeHotbar:44
 key_quark.keybind.chestSort:0
@@ -98,6 +97,7 @@ key_quark.keybind.chestDropoff:0
 key_quark.keybind.chestMerge:0
 key_quark.keybind.chestRestock:0
 key_quark.keybind.chestExtract:0
+key_quark.keybind.lockBuilding:37
 key_keybind.baublesinventory:48
 key_keys.baubleshud.config:73
 key_bloodmagic.keybind.open_holding:35
