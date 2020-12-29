@@ -2990,6 +2990,92 @@
       "installedTargets": null
     },
     {
+      "addonID": 229061,
+      "gameInstanceID": "f97bb607-0aa3-4745-aad6-9095b0b33b98",
+      "installedFile": {
+        "id": 2729094,
+        "displayName": "BackTools-1.12.2-7.0.1.jar",
+        "fileName": "BackTools-1.12.2-7.0.1.jar",
+        "fileDate": "2019-06-24T12:00:48.53Z",
+        "fileLength": 18879,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/2729/94/BackTools-1.12.2-7.0.1.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [
+          {
+            "id": 0,
+            "addonId": 229060,
+            "type": 3,
+            "fileId": 0
+          }
+        ],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 975002,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 3702592810,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 136188242,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "me",
+            "fingerprint": 1776059275,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 3204892886,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 372831748,
+        "gameVersion": [
+          "1.12",
+          "1.12.1",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "BackTools-1.12.2-7.0.1.jar"
+      },
+      "dateInstalled": "2020-12-28T15:21:04.0603614Z",
+      "dateUpdated": "2020-12-28T15:21:04.1324631Z",
+      "dateLastUpdateAttempted": "2020-12-28T15:21:04.1324631Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
       "addonID": 350487,
       "gameInstanceID": "f97bb607-0aa3-4745-aad6-9095b0b33b98",
       "installedFile": {
@@ -5378,7 +5464,7 @@
       "dateInstalled": "2020-12-18T17:28:21.1975851Z",
       "dateUpdated": "2020-12-18T17:28:21.2035661Z",
       "dateLastUpdateAttempted": "2020-12-18T17:28:21.2035661Z",
-      "status": 5,
+      "status": 3,
       "preferenceAutoInstallUpdates": null,
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
@@ -7160,6 +7246,84 @@
       "preferenceAlternateFile": false,
       "preferenceIsIgnored": false,
       "isModified": true,
+      "isWorkingCopy": false,
+      "isFuzzyMatch": false,
+      "preferenceReleaseType": null,
+      "manifestName": null,
+      "installedTargets": null
+    },
+    {
+      "addonID": 311054,
+      "gameInstanceID": "f97bb607-0aa3-4745-aad6-9095b0b33b98",
+      "installedFile": {
+        "id": 3054253,
+        "displayName": "AoA3 3.3.6",
+        "fileName": "AoA3-3.3.6.jar",
+        "fileDate": "2020-09-11T03:43:36.367Z",
+        "fileLength": 88931463,
+        "releaseType": 1,
+        "fileStatus": 4,
+        "downloadUrl": "https://edge.forgecdn.net/files/3054/253/AoA3-3.3.6.jar",
+        "isAlternate": false,
+        "alternateFileId": 0,
+        "dependencies": [],
+        "isAvailable": true,
+        "modules": [
+          {
+            "foldername": "META-INF",
+            "fingerprint": 275292918,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "assets",
+            "fingerprint": 2666293602,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "mcmod.info",
+            "fingerprint": 1319764955,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "net",
+            "fingerprint": 590069224,
+            "type": 0,
+            "invalidFingerprint": false
+          },
+          {
+            "foldername": "pack.mcmeta",
+            "fingerprint": 958162322,
+            "type": 0,
+            "invalidFingerprint": false
+          }
+        ],
+        "packageFingerprint": 3245904972,
+        "gameVersion": [
+          "Forge",
+          "1.12.2"
+        ],
+        "hasInstallScript": false,
+        "isCompatibleWithClient": false,
+        "categorySectionPackageType": 0,
+        "restrictProjectFileAccess": 0,
+        "projectStatus": 0,
+        "projectId": 0,
+        "gameVersionDateReleased": "2008-03-01T06:00:00Z",
+        "gameId": 0,
+        "isServerPack": false,
+        "FileNameOnDisk": "AoA3-3.3.6.jar"
+      },
+      "dateInstalled": "2020-12-28T14:43:27.694035Z",
+      "dateUpdated": "2020-12-28T14:43:27.7939787Z",
+      "dateLastUpdateAttempted": "2020-12-28T14:43:27.7939787Z",
+      "status": 4,
+      "preferenceAutoInstallUpdates": null,
+      "preferenceAlternateFile": false,
+      "preferenceIsIgnored": false,
+      "isModified": false,
       "isWorkingCopy": false,
       "isFuzzyMatch": false,
       "preferenceReleaseType": null,
