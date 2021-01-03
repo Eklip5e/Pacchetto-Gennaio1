@@ -1,0 +1,23 @@
+{
+	title: "Fauno che cresce sopra un bonsai",
+	x: -7.5d,
+	y: -5.5d,
+	text: [
+		"Costruisci un Hopping Bonsai Pot per creare risorse di legno infinite, ti basterà poggiarlo su una chest, mettere della terra ed il tuo magico arboscello!"
+	],
+	dependencies: [
+		"fda910d7"
+	],
+	tasks: [{
+		uid: "64ffc0de",
+		type: "item",
+		items: [{
+			item: "bonsaitrees:bonsaipot 1 1"
+		}]
+	}],
+	rewards: [{
+		uid: "a6748669",
+		type: "loot",
+		table: 0
+	}]
+}

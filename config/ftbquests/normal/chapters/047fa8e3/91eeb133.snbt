@@ -1,0 +1,21 @@
+{
+	title: "Non me l'aspettavo",
+	x: -6.0d,
+	y: -1.0d,
+	text: [
+		"Raccogli i semi e piantali, al raggiungimento di 6 pezzi di grano sbloccherai questa quest!"
+	],
+	tasks: [{
+		uid: "a3ee2b56",
+		type: "item",
+		items: [{
+			item: "minecraft:wheat"
+		}],
+		count: 6L
+	}],
+	rewards: [{
+		uid: "8242bef4",
+		type: "random",
+		table: 0
+	}]
+}

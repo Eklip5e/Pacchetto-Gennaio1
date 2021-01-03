@@ -1,0 +1,24 @@
+{
+	title: "c'ho l'affanno.. me so stancato",
+	x: -17.0d,
+	y: 1.5d,
+	text: [
+		"Crafta una Supremium Furnace, essa cuocerà più velocemente di una Superium Furnace. ",
+		"è letteralmente un mostro a cucinare, finiamola qui."
+	],
+	dependencies: [
+		"c3283ea5"
+	],
+	tasks: [{
+		uid: "a80262a0",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:supremium_furnace"
+		}]
+	}],
+	rewards: [{
+		uid: "77a0d2ff",
+		type: "random",
+		table: 0
+	}]
+}

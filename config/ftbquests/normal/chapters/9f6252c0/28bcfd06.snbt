@@ -1,0 +1,19 @@
+{
+	x: 2.5d,
+	y: -13.5d,
+	text: [
+		"Sopravvivi ad un'esplosione di una TNT e di un Creeper contemporaneamente, mantieni nell'inventario un Blank Realmstone per ottenerlo."
+	],
+	dependencies: [
+		"dd213812"
+	],
+	tasks: [{
+		uid: "1e558af6",
+		type: "item",
+		items: [{
+			item: "aoa3:creeponia_realmstone"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

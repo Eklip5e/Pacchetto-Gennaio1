@@ -1,0 +1,19 @@
+{
+	x: 5.0d,
+	y: -7.5d,
+	text: [
+		"Evoca il wither nel Nether mentre mantieni in mano un Blank Realmstone."
+	],
+	dependencies: [
+		"f2c6435c"
+	],
+	tasks: [{
+		uid: "418095bf",
+		type: "item",
+		items: [{
+			item: "aoa3:abyss_realmstone"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

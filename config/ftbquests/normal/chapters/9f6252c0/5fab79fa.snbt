@@ -1,0 +1,19 @@
+{
+	x: -2.5d,
+	y: -9.5d,
+	text: [
+		"Cadi da almeno 26 blocchi di distanza con un Blank Realmstone per ottenerlo."
+	],
+	dependencies: [
+		"dd213812"
+	],
+	tasks: [{
+		uid: "17b5bc9c",
+		type: "item",
+		items: [{
+			item: "aoa3:lelyetia_realmstone"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

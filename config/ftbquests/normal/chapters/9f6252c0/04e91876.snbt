@@ -1,0 +1,20 @@
+{
+	x: -2.5d,
+	y: -13.5d,
+	text: [
+		"Crafta un Blank Realmstone con tutti i sapling vanilla."
+	],
+	dependencies: [
+		"dd213812"
+	],
+	dependency_requirement: "all_started",
+	tasks: [{
+		uid: "afd7b4ca",
+		type: "item",
+		items: [{
+			item: "aoa3:precasia_realmstone"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

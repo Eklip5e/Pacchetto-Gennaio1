@@ -1,0 +1,23 @@
+{
+	title: "SUPERR SUPERR SUPERR.. GIRRLL!",
+	x: -15.0d,
+	y: 3.0d,
+	text: [
+		"Crafta una Superium Furnace, essa cuocerà più velocemente di una Intermedium Furnace"
+	],
+	dependencies: [
+		"3b5adc0f"
+	],
+	tasks: [{
+		uid: "cd63c1e1",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:superium_furnace"
+		}]
+	}],
+	rewards: [{
+		uid: "1b687f5d",
+		type: "random",
+		table: 0
+	}]
+}

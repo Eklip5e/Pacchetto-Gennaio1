@@ -1,0 +1,31 @@
+{
+	x: -7.5d,
+	y: 2.0d,
+	shape: "hexagon",
+	text: [
+		"Uccidi 100 Zombie!"
+	],
+	tasks: [{
+		uid: "0452a1bd",
+		type: "kill",
+		title: "Zombie Master!",
+		entity: "minecraft:zombie",
+		value: 100L
+	}],
+	rewards: [{
+		uid: "1944dad7",
+		type: "item",
+		item: {
+			id: "aoa3:minigun",
+			tag: {
+				HideFlags: 2b
+			}
+		}
+	},
+	{
+		uid: "11bb26e0",
+		type: "item",
+		item: "aoa3:limonite_bullet",
+		count: 70
+	}]
+}

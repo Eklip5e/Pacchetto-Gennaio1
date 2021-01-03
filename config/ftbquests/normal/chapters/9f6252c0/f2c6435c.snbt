@@ -1,0 +1,19 @@
+{
+	x: 2.5d,
+	y: -9.5d,
+	text: [
+		"Sommergiti nella lava e butta il Blank Realmstone per ottenerlo."
+	],
+	dependencies: [
+		"dd213812"
+	],
+	tasks: [{
+		uid: "757c9f95",
+		type: "item",
+		items: [{
+			item: "aoa3:nether_realmstone"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

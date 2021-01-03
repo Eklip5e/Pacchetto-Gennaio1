@@ -1,0 +1,19 @@
+{
+	x: -14.0d,
+	y: -5.0d,
+	text: [
+		"Costruisci una Master Infusion Crystal, gli utilizzi sono infiniti!"
+	],
+	dependencies: [
+		"6134a904"
+	],
+	tasks: [{
+		uid: "1c665617",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:master_infusion_crystal"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

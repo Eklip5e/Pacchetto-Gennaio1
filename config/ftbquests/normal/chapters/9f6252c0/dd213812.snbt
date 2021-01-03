@@ -1,0 +1,20 @@
+{
+	title: "...Occhi... Occhi ovunque...",
+	x: 0.0d,
+	y: -11.5d,
+	text: [
+		"Hai aperto il worn book, dal suo contenuto cade un Blank Realmstone... Mi domando cosa succeda se ci interagisco."
+	],
+	dependencies: [
+		"57e9e716"
+	],
+	tasks: [{
+		uid: "0c9bdbd0",
+		type: "item",
+		items: [{
+			item: "aoa3:blank_realmstone"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

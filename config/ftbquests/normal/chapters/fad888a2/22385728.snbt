@@ -1,0 +1,23 @@
+{
+	title: "§1U§2L§3T§4I§5M§6A§9T§aE",
+	x: -16.5d,
+	y: -1.0d,
+	text: [
+		"Con questa fornace, quasi impossibile da craftare, potrai cucinare per una buona mezz'ora con un singolo blocco di carbone"
+	],
+	dependencies: [
+		"092c7ef6"
+	],
+	tasks: [{
+		uid: "ee8a855e",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:ultimate_furnace"
+		}]
+	}],
+	rewards: [{
+		uid: "7fa4f4cd",
+		type: "random",
+		table: 0
+	}]
+}

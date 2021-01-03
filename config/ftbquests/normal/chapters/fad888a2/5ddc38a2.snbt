@@ -1,0 +1,24 @@
+{
+	title: "Ha! questa poi!",
+	x: -12.0d,
+	y: 1.0d,
+	text: [
+		"Crafta una Inferium Furnace per poter cuocere i tuoi item più velocemente!"
+	],
+	dependencies: [
+		"8fa9069a",
+		"d7d1b982"
+	],
+	tasks: [{
+		uid: "6b92de92",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:inferium_furnace"
+		}]
+	}],
+	rewards: [{
+		uid: "21894c7a",
+		type: "random",
+		table: 0
+	}]
+}

@@ -1,0 +1,12 @@
+{
+	x: -4.0d,
+	y: -1.0d,
+	text: [
+		"Sapevi che per raccogliere il grano o qualsiasi altra piantagione senza distruggerla ti basta fare tasto destro?"
+	],
+	tasks: [{
+		uid: "da3cb9b4",
+		type: "checkmark",
+		title: "Curiosità!"
+	}]
+}

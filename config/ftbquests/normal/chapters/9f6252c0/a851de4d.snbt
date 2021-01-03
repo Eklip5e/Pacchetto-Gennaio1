@@ -1,0 +1,51 @@
+{
+	title: "Ottieni le rune",
+	x: 2.0d,
+	y: 1.0d,
+	text: [
+		""
+	],
+	dependencies: [
+		"57e9e716"
+	],
+	tasks: [{
+		uid: "c2a817a8",
+		type: "item",
+		items: [{
+			item: "aoa3:carved_rune_direction"
+		}]
+	},
+	{
+		uid: "af9029a2",
+		type: "item",
+		items: [{
+			item: "aoa3:carved_rune_power"
+		}]
+	},
+	{
+		uid: "3ae85c2a",
+		type: "item",
+		items: [{
+			item: "aoa3:carved_rune_reality"
+		}]
+	},
+	{
+		uid: "58a20441",
+		type: "item",
+		items: [{
+			item: "aoa3:carved_rune_space"
+		}]
+	},
+	{
+		uid: "756ca2b5",
+		type: "item",
+		items: [{
+			item: "aoa3:carved_rune_travel"
+		}]
+	}],
+	rewards: [{
+		uid: "953e8399",
+		type: "loot",
+		table: 0
+	}]
+}

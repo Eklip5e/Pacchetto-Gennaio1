@@ -1,0 +1,15 @@
+{
+	x: 2.0d,
+	y: -1.0d,
+	dependencies: [
+		"57e9e716"
+	],
+	tasks: [{
+		uid: "c2fdf8e1",
+		type: "item",
+		items: [{
+			item: "aoa3:ancient_rock"
+		}],
+		count: 16L
+	}]
+}

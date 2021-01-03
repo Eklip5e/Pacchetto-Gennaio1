@@ -1,0 +1,19 @@
+{
+	x: -5.0d,
+	y: 2.5d,
+	text: [
+		"Ammazza 30 Ciclopi."
+	],
+	tasks: [{
+		uid: "917905cd",
+		type: "kill",
+		title: "Io sono Nessuno.",
+		entity: "aoa3:cyclops",
+		value: 30L
+	}],
+	rewards: [{
+		uid: "133d205f",
+		type: "random",
+		table: 0
+	}]
+}

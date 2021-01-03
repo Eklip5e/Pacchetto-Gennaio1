@@ -1,0 +1,17 @@
+{
+	title: "..E tu cosa sei?",
+	x: 0.0d,
+	y: 0.0d,
+	text: [
+		"Interagisci con un Corrupted Traveller, dagli del cibo e lui ti ricompenserà con un Worn Book, libro molto importante per i nuovi viaggi che vi aspetteranno"
+	],
+	tasks: [{
+		uid: "5a3064ae",
+		type: "item",
+		items: [{
+			item: "aoa3:worn_book"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

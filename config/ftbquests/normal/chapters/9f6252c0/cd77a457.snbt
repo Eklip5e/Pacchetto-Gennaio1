@@ -1,0 +1,20 @@
+{
+	title: "...Il mio.. tesoro...",
+	x: -2.0d,
+	y: 0.0d,
+	shape: "pentagon",
+	text: [
+		"Ammazzalo... Uccidi il Corrupted Traveller."
+	],
+	dependencies: [
+		"57e9e716"
+	],
+	dependency_requirement: "all_started",
+	optional: true,
+	tasks: [{
+		uid: "459f11cc",
+		type: "kill",
+		entity: "aoa3:corrupted_traveller",
+		value: 1L
+	}]
+}

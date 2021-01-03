@@ -1,0 +1,32 @@
+{
+	title: "DOTTOREEE! INGEGNEREEE!",
+	x: -3.0d,
+	y: 0.5d,
+	text: [
+		"Crafta l'engineer's hammer e il wire cutters!",
+		"Con la quest completa riceverete il manuale di questa mod in quanto, non posso scrivere ogni cosa del libro qui",
+		"",
+		"LEGGETE IL CAZZO DI MANUALE!"
+	],
+	tasks: [{
+		uid: "21450274",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:tool"
+		}],
+		ignore_nbt: 1b
+	},
+	{
+		uid: "2838c981",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:tool 1 1"
+		}],
+		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "341e36e8",
+		type: "item",
+		item: "immersiveengineering:tool 1 3"
+	}]
+}

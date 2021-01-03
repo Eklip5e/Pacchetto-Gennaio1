@@ -1,0 +1,23 @@
+{
+	title: "CryptoCurrency!?",
+	x: -10.0d,
+	y: -2.5d,
+	shape: "diamond",
+	text: [
+		"La risposta è sì, qui avrai la libertà di poter vendere e comprare item utilizzando i Bronze Coin come moneta, ",
+		"con l'infusion crystal potrai aumentare il valore della tua moneta!"
+	],
+	tasks: [{
+		uid: "a9c11a4e",
+		type: "item",
+		items: [{
+			item: "ordinarycoins:coinbronze"
+		}],
+		count: 30L
+	}],
+	rewards: [{
+		uid: "21d72dd5",
+		type: "item",
+		item: "mysticalagriculture:infusion_crystal 1 998"
+	}]
+}

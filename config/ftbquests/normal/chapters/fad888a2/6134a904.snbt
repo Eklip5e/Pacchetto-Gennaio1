@@ -1,0 +1,19 @@
+{
+	x: -14.0d,
+	y: -3.0d,
+	text: [
+		"Crafta una Infusion Crystal per creare i prestigi della inferium!"
+	],
+	dependencies: [
+		"d7d1b982"
+	],
+	tasks: [{
+		uid: "6fc6b910",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:infusion_crystal"
+		}],
+		ignore_damage: true,
+		ignore_nbt: 1b
+	}]
+}

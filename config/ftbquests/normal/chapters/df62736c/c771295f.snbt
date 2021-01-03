@@ -1,0 +1,23 @@
+{
+	title: "...And I §oSteel §rfeel alivee!",
+	x: -4.5d,
+	y: -1.0d,
+	text: [
+		"(sì, dopo questa cosa squallida potete farmi male) ",
+		"Crea dello steel utilizzando la tecnica del carbone o con la Blast Furnace!"
+	],
+	dependencies: [
+		"f3bf253f"
+	],
+	tasks: [{
+		uid: "9d9124f6",
+		type: "item",
+		items: [{
+			item: "immersiveengineering:metal 1 8"
+		},
+		{
+			item: "hardcoreore:ingot_steel"
+		}],
+		count: 4L
+	}]
+}

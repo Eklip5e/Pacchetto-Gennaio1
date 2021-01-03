@@ -1,0 +1,23 @@
+{
+	title: "Sii Prudente Luke.",
+	x: -14.0d,
+	y: 0.5d,
+	text: [
+		"Crafta una Prudentium Furnace, essa cuocerà più velocemente di una Inferium Furnace"
+	],
+	dependencies: [
+		"5ddc38a2"
+	],
+	tasks: [{
+		uid: "0e944094",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:prudentium_furnace"
+		}]
+	}],
+	rewards: [{
+		uid: "c5be5cac",
+		type: "random",
+		table: 0
+	}]
+}

@@ -1,0 +1,18 @@
+{
+	title: "..Cavolo allora non scherzi bro!",
+	x: -12.0d,
+	y: -4.0d,
+	text: [
+		"Crafta sta fornace!"
+	],
+	dependencies: [
+		"b60592cb"
+	],
+	tasks: [{
+		uid: "d487b5cb",
+		type: "item",
+		items: [{
+			item: "minecraft:furnace"
+		}]
+	}]
+}

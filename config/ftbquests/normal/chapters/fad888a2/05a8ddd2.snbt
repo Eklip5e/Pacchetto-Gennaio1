@@ -1,0 +1,20 @@
+{
+	x: -5.5d,
+	y: 0.5d,
+	shape: "hexagon",
+	text: [
+		"Uccidi 30 Tacchini"
+	],
+	tasks: [{
+		uid: "8bea1c78",
+		type: "kill",
+		title: "Per una buona causa",
+		entity: "familiarfauna:familiarfauna.turkey",
+		value: 30L
+	}],
+	rewards: [{
+		uid: "9504a462",
+		type: "random",
+		table: 0
+	}]
+}

@@ -1,0 +1,23 @@
+{
+	title: "...Ce ne sono altre?",
+	x: -13.0d,
+	y: 2.5d,
+	text: [
+		"Crafta una Intermedium Furnace, essa cuocerà più velocemente di una Prudentium Furnace"
+	],
+	dependencies: [
+		"4e66c748"
+	],
+	tasks: [{
+		uid: "082ffcb8",
+		type: "item",
+		items: [{
+			item: "mysticalagriculture:intermedium_furnace"
+		}]
+	}],
+	rewards: [{
+		uid: "3b0424cd",
+		type: "random",
+		table: 0
+	}]
+}
