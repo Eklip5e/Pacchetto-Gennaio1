@@ -10,5 +10,10 @@
 		items: [{
 			item: "improvedbackpacks:upgrade 1 4"
 		}]
+	}],
+	rewards: [{
+		uid: "e112fc20",
+		type: "random",
+		table: 0
 	}]
 }

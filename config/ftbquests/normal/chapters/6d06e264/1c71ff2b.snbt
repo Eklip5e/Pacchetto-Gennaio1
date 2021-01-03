@@ -13,5 +13,10 @@
 		{
 			item: "actuallyadditions:item_medium_to_large_crate_upgrade"
 		}]
+	}],
+	rewards: [{
+		uid: "f68568ec",
+		type: "random",
+		table: 0
 	}]
 }

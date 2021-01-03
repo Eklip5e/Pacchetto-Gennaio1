@@ -15,5 +15,10 @@
 			item: "minecraft:diamond"
 		}],
 		count: 16L
+	}],
+	rewards: [{
+		uid: "19651dee",
+		type: "random",
+		table: 0
 	}]
 }

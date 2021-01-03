@@ -11,5 +11,10 @@
 			}
 		}],
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "fbb4f880",
+		type: "random",
+		table: 0
 	}]
 }

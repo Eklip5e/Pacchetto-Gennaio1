@@ -2,6 +2,7 @@
 	title: "L'inferno senza Dante, Non è un inferno.",
 	x: -7.5d,
 	y: -0.5d,
+	shape: "square",
 	text: [
 		"Attraversa il portale ed entra nel Nether."
 	],
@@ -13,5 +14,10 @@
 		uid: "6f9460d4",
 		type: "dimension",
 		dim: -1
+	}],
+	rewards: [{
+		uid: "091b4d20",
+		type: "random",
+		table: 0
 	}]
 }

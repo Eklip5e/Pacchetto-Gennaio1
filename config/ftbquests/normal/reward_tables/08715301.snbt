@@ -1,5 +1,352 @@
 {
 	title: "Random",
 	loot_size: 1,
-	rewards: []
+	rewards: [{
+		item: "minecraft:cobblestone",
+		count: 16
+	},
+	{
+		item: "minecraft:sapling",
+		count: 3
+	},
+	{
+		item: "divinerpg:teleportation_crystal"
+	},
+	{
+		item: "spartanweaponry:throwing_knife_copper"
+	},
+	{
+		item: "portalgun:item_miniature_black_hole"
+	},
+	{
+		item: "mysticalagriculture:crafting 1 22",
+		count: 3
+	},
+	{
+		item: "aoa3:gingerbread_cookie",
+		count: 8
+	},
+	{
+		item: "familiarfauna:venison_cooked",
+		count: 7
+	},
+	{
+		item: "immersiveengineering:metal 1 7",
+		count: 3
+	},
+	{
+		item: "waystones:warp_stone"
+	},
+	{
+		item: "heroicarmory:kirbykirbysword"
+	},
+	{
+		item: "openblocks:serious_glasses"
+	},
+	{
+		item: "extraanvils:stone_anvil_damaged"
+	},
+	{
+		item: {
+			ForgeCaps: {
+				Parent: {
+					Size: 2,
+					TotalAmounts: [
+						0
+					],
+					Items: []
+				}
+			},
+			id: "xreliquary:ender_staff",
+			tag: {
+				count: 0
+			}
+		}
+	},
+	{
+		item: {
+			id: "cyclicmagic:book_ender",
+			tag: {}
+		}
+	},
+	{
+		item: "cyclicmagic:gold_furnace_minecart"
+	},
+	{
+		item: "mysticalagriculture:crafting",
+		count: 5
+	},
+	{
+		title: "Hai perso! Niente loot!",
+		icon: "quark:paper_wall_sakura",
+		type: "toast"
+	},
+	{
+		item: "minecraft:sapling 1 2",
+		count: 4
+	},
+	{
+		title: "Hai Perso Ancora!",
+		icon: "minecraft:dirt",
+		type: "toast"
+	},
+	{
+		item: "actuallyadditions:item_worm"
+	},
+	{
+		item: "actuallyadditions:item_jam 1 6",
+		count: 3
+	},
+	{
+		item: "actuallyadditions:block_smiley_cloud"
+	},
+	{
+		item: "aoa3:baron_sword"
+	},
+	{
+		item: "divinerpg:rainbow_wool",
+		count: 10
+	},
+	{
+		item: "immersiveintelligence:circuit_functional"
+	},
+	{
+		item: "divinerpg:amthirmis_bow"
+	},
+	{
+		item: {
+			id: "actuallyadditions:item_potion_ring",
+			tag: {
+				Blaze: 150
+			},
+			Damage: 9s
+		}
+	},
+	{
+		item: "minecraft:blaze_rod",
+		count: 5
+	},
+	{
+		item: "waystones:waystone"
+	},
+	{
+		item: {
+			id: "cyclicmagic:glove_climb",
+			tag: {}
+		}
+	},
+	{
+		item: "minecraft:stone",
+		count: 16
+	},
+	{
+		item: "minecraft:sapling 1 2"
+	},
+	{
+		item: "minecraft:sapling 1 3",
+		count: 3
+	},
+	{
+		item: "heroicarmory:gowbladeofchaos"
+	},
+	{
+		item: {
+			id: "bloodmagic:sigil_fast_miner",
+			tag: {}
+		}
+	},
+	{
+		item: "harvestcraft:honeysoyribsitem",
+		count: 6
+	},
+	{
+		item: {
+			id: "cyclicmagic:charm_antidote",
+			tag: {}
+		}
+	},
+	{
+		item: {
+			id: "cyclicmagic:charm_water",
+			tag: {}
+		}
+	},
+	{
+		item: {
+			id: "cyclicmagic:charm_air",
+			tag: {}
+		}
+	},
+	{
+		item: {
+			id: "cyclicmagic:charm_void",
+			tag: {}
+		}
+	},
+	{
+		item: {
+			id: "cyclicmagic:charm_boat",
+			tag: {}
+		}
+	},
+	{
+		item: {
+			id: "cyclicmagic:charm_fire",
+			tag: {}
+		}
+	},
+	{
+		item: {
+			id: "cyclicmagic:charm_speed",
+			tag: {}
+		}
+	},
+	{
+		item: {
+			id: "cyclicmagic:charm_wing",
+			tag: {}
+		}
+	},
+	{
+		item: "minecraft:planks 1 3",
+		count: 22
+	},
+	{
+		item: {
+			id: "xreliquary:mercy_cross",
+			tag: {
+				display: {
+					Name: "IL MESSIA CI HA PARLATO!!!"
+				}
+			}
+		}
+	},
+	{
+		item: "mysticalagriculture:crafting 1 32",
+		count: 7
+	},
+	{
+		title: "sorpresa",
+		command: "/kill",
+		type: "command"
+	},
+	{
+		command: "/say Ti è stato diagnosticato il gay",
+		type: "command"
+	},
+	{
+		item: {
+			id: "xlfoodmod:strawberry_cake",
+			tag: {
+				display: {
+					Name: "Tanti auguri"
+				}
+			}
+		},
+		count: 2
+	},
+	{
+		item: "xlfoodmod:enchilada",
+		count: 3
+	},
+	{
+		item: "xlfoodmod:oreo_cookie",
+		count: 6
+	},
+	{
+		item: "cyclicmagic:sack_ender"
+	},
+	{
+		item: "cyclicmagic:apple_lapis"
+	},
+	{
+		item: "immersiveengineering:wooden_device0"
+	},
+	{
+		item: "heroicarmory:swkylorenlightsaber"
+	},
+	{
+		item: "bibliocraft:bookcase",
+		count: 3
+	},
+	{
+		item: "bibliocraft:shelf",
+		count: 3
+	},
+	{
+		item: "bibliocraft:lampgold 1 1"
+	},
+	{
+		item: "bibliocraft:table",
+		count: 4
+	},
+	{
+		item: "aoa3:lucalus_sapling"
+	},
+	{
+		item: "biomesoplenty:sapling_0 1 5"
+	},
+	{
+		item: "minecraft:deadbush",
+		count: 4
+	},
+	{
+		item: "flatcoloredblocks:flatcoloredblock63 1 11",
+		count: 13
+	},
+	{
+		item: "heroicarmory:rsadamantwarhammer"
+	},
+	{
+		item: "biomesoplenty:log_0 1 4",
+		count: 4
+	},
+	{
+		item: "computercraft:disk"
+	},
+	{
+		item: "storagedrawers:framingtable",
+		count: 2
+	},
+	{
+		item: {
+			id: "spartanweaponry:arrow_diamond_tipped",
+			tag: {
+				Potion: "quark:strong_resistance"
+			}
+		},
+		count: 7
+	},
+	{
+		item: "cyclicmagic:ender_tnt_5",
+		count: 3
+	},
+	{
+		item: "iceandfire:armor_bronze_boots 1 410"
+	},
+	{
+		item: "immersiveengineering:material 1 15"
+	},
+	{
+		item: "spartanweaponry:staff_bronze"
+	},
+	{
+		item: "cyclicmagic:block_anvil_magma"
+	},
+	{
+		item: "engineersdecor:small_solar_panel"
+	},
+	{
+		item: "engineersdecor:treated_wood_table"
+	}],
+	loot_crate: {
+		string_id: "randomissimo",
+		color: 1992890,
+		glow: true,
+		drops: {
+			boss: 0,
+			passive: 0,
+			monster: 0
+		}
+	}
 }

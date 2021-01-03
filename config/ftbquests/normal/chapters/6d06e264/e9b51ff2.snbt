@@ -7,5 +7,10 @@
 		items: [{
 			item: "refinedstorage:grid"
 		}]
+	}],
+	rewards: [{
+		uid: "1b151938",
+		type: "random",
+		table: 0
 	}]
 }

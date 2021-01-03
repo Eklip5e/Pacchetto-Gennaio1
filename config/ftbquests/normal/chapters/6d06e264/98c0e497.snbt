@@ -7,5 +7,10 @@
 		items: [{
 			item: "refinedstorage:disk_drive"
 		}]
+	}],
+	rewards: [{
+		uid: "f2f94b0d",
+		type: "random",
+		table: 0
 	}]
 }

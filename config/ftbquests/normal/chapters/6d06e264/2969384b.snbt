@@ -1,6 +1,7 @@
 {
 	x: -0.5d,
 	y: -0.5d,
+	shape: "gear",
 	dependencies: [
 		"aeb17ed1"
 	],
@@ -11,5 +12,15 @@
 			item: "morerefinedstorage:storagecell"
 		}],
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "fb707ef6",
+		type: "random",
+		table: 0
+	},
+	{
+		uid: "29212cf2",
+		type: "random",
+		table: 0
 	}]
 }

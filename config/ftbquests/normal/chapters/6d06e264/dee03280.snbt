@@ -7,5 +7,10 @@
 		items: [{
 			item: "enderstorage:ender_storage"
 		}]
+	}],
+	rewards: [{
+		uid: "6d946bdd",
+		type: "random",
+		table: 0
 	}]
 }

@@ -1,6 +1,7 @@
 {
 	x: 3.5d,
 	y: 1.5d,
+	shape: "gear",
 	dependencies: [
 		"4c775e61"
 	],
@@ -11,5 +12,10 @@
 			item: "rebornstorage:storagecell"
 		}],
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7bbab607",
+		type: "random",
+		table: 0
 	}]
 }

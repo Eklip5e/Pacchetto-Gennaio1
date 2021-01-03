@@ -10,5 +10,10 @@
 		items: [{
 			item: "storagedrawers:upgrade_storage 1 2"
 		}]
+	}],
+	rewards: [{
+		uid: "011955f7",
+		type: "loot",
+		table: 0
 	}]
 }

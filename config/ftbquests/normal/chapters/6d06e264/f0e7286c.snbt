@@ -128,5 +128,10 @@
 				material: "immersiveengineering:immeng_treated"
 			}
 		}]
+	}],
+	rewards: [{
+		uid: "d77e63ba",
+		type: "random",
+		table: 0
 	}]
 }

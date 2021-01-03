@@ -1,6 +1,7 @@
 {
 	x: 3.5d,
 	y: -0.5d,
+	shape: "gear",
 	dependencies: [
 		"611234fe"
 	],
@@ -11,5 +12,10 @@
 			item: "refinedstorage:storage_disk 1 2"
 		}],
 		ignore_nbt: 1b
+	}],
+	rewards: [{
+		uid: "7bb936e6",
+		type: "random",
+		table: 0
 	}]
 }

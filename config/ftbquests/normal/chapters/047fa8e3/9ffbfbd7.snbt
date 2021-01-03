@@ -15,5 +15,10 @@
 			item: "minecraft:iron_ingot"
 		}],
 		count: 16L
+	}],
+	rewards: [{
+		uid: "629f2695",
+		type: "random",
+		table: 0
 	}]
 }

@@ -10,5 +10,10 @@
 		items: [{
 			item: "storagedrawers:upgrade_storage 1 4"
 		}]
+	}],
+	rewards: [{
+		uid: "2accc872",
+		type: "random",
+		table: 0
 	}]
 }

@@ -1,8 +1,22 @@
 //This file was created via CT-GUI! Editing it is not advised!
 //Don't touch me!
 //#Remove
+
 //Don't touch me!
 //#Add
+recipes.addShaped(<ore:ingotSteel> * 2, [[<ore:coal>, <ore:coal>, <ore:coal>],[<ore:ingotIron>, <minecraft:brick>, <ore:ingotIron>], [<ore:coal>, <ore:coal>, <ore:coal>]]);
+recipes.addShaped(<hardcoreore:ingot_steel> * 2, [[<minecraft:coal>, <minecraft:coal>, <minecraft:coal>],[<minecraft:iron_ingot>, <minecraft:brick>, <minecraft:iron_ingot>], [<minecraft:coal>, <ore:coal>, <minecraft:coal>]]);
+recipes.addShaped(<immersiveengineering:metal:8> * 2, [[<minecraft:coal>, <minecraft:coal>, <minecraft:coal>],[<minecraft:iron_ingot>, <minecraft:brick>, <minecraft:iron_ingot>], [<minecraft:coal>, <ore:coal>, <minecraft:coal>]]);
+recipes.addShaped(<betterbuilderswands:wandstone>, [[<ore:materialStoneTool>, null, null],[null, <minecraft:stick:*>.anyDamage(), null], [null, null, <ore:stickWood>]]);
+recipes.addShaped(<betterbuilderswands:wandiron>, [[<ore:ingotIron>, null, null],[null, <minecraft:stick:*>.anyDamage(), null], [null, null, <ore:stickWood>]]);
+recipes.addShaped(<betterbuilderswands:wandstone>, [[<ore:materialStoneTool>, null, null],[null, <minecraft:stick:*>.anyDamage(), null], [null, null, <ore:stickWood>]]);
+recipes.addShaped(<betterbuilderswands:wanddiamond>, [[<ore:gemDiamond>, null, null],[null, <minecraft:stick:*>.anyDamage(), null], [null, null, <ore:stickWood>]]);
+recipes.addShaped(<ordinarycoins:coinplatinum> * 2, [[null, <ordinarycoins:coingold>, null],[<ordinarycoins:coingold>, <mysticalagriculture:master_infusion_crystal>, <ordinarycoins:coingold>], [null, <ordinarycoins:coingold>, null]]);
+recipes.addShaped(<ordinarycoins:coingold> * 2, [[null, <ordinarycoins:coinsilver>, null],[<ordinarycoins:coinsilver>, <mysticalagriculture:master_infusion_crystal>, <ordinarycoins:coinsilver>], [null, <ordinarycoins:coinsilver>, null]]);
+recipes.addShaped(<ordinarycoins:coinsilver> * 2, [[null, <ordinarycoins:coinbronze>, null],[<ordinarycoins:coinbronze>, <mysticalagriculture:master_infusion_crystal>, <ordinarycoins:coinbronze>], [null, <ordinarycoins:coinbronze>, null]]);
+recipes.addShaped(<ordinarycoins:coinplatinum> * 2, [[null, <ordinarycoins:coingold>, null],[<ordinarycoins:coingold>, <mysticalagriculture:infusion_crystal:1>.anyDamage(), <ordinarycoins:coingold>], [null, <ordinarycoins:coingold>, null]]);
+recipes.addShaped(<ordinarycoins:coingold> * 2, [[null, <ordinarycoins:coinsilver>, null],[<ordinarycoins:coinsilver>, <mysticalagriculture:infusion_crystal:1>.anyDamage(), <ordinarycoins:coinsilver>], [null, <ordinarycoins:coinsilver>, null]]);
+recipes.addShaped(<ordinarycoins:coinsilver> * 2, [[null, <ordinarycoins:coinbronze>, null],[<ordinarycoins:coinbronze>, <mysticalagriculture:infusion_crystal:1>.anyDamage(), <ordinarycoins:coinbronze>], [null, <ordinarycoins:coinbronze>, null]]);
 recipes.addShapeless(<ordinarycoins:coinbronze> * 2, [<ordinarycoins:coinsilver>]);
 recipes.addShapeless(<ordinarycoins:coinsilver> * 2, [<ordinarycoins:coingold>]);
 recipes.addShapeless(<ordinarycoins:coingold> * 2, [<ordinarycoins:coinplatinum>]);

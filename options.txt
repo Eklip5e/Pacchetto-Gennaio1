@@ -4,7 +4,7 @@ mouseSensitivity:0.5
 fov:0.0
 gamma:1.0
 saturation:0.0
-renderDistance:13
+renderDistance:11
 guiScale:0
 particles:2
 bobView:true
@@ -14,7 +14,7 @@ fboEnable:true
 difficulty:2
 fancyGraphics:true
 ao:0
-renderClouds:true
+renderClouds:fast
 resourcePacks:[]
 incompatibleResourcePacks:[]
 lastServer:
@@ -29,7 +29,7 @@ fullscreen:false
 enableVsync:true
 useVbo:true
 hideServerAddress:false
-advancedItemTooltips:false
+advancedItemTooltips:true
 pauseOnLostFocus:true
 touchscreen:false
 overrideWidth:0
@@ -45,7 +45,7 @@ reducedDebugInfo:false
 useNativeTransport:true
 entityShadows:true
 mainHand:right
-attackIndicator:0
+attackIndicator:1
 showSubtitles:true
 realmsNotifications:true
 enableWeakAttacks:false
@@ -111,10 +111,10 @@ key_key.previous_item.desc:0
 key_key.open_danknull.desc:0
 key_key.togglehud.desc:0
 key_Open Menu:25
-key_Toggle Freeze Effect:210
+key_Toggle Freeze Effect:19
 key_Enable/Disable:0
 key_Kill Particles:0
-key_Blacklist Block:45
+key_Blacklist Block:210
 key_key.ftbquests.quests:0
 key_key.ij.engine:47
 key_key.ij.hover:34
@@ -128,7 +128,7 @@ key_oreexcavation.key.excavate:43
 key_oreexcavation.key.shape:47
 key_Difficulty Meter - Show:49
 key_Difficulty Meter - Show Always:49:SHIFT
-key_Test:77
+key_Test:209
 key_key.toastcontrol.clear:36
 key_dshuds.keybind.SelectionBox:48
 key_dshuds.keybind.LightLevel:65
@@ -146,11 +146,12 @@ key_key.jei.nextPage:209
 key_key.jei.bookmark:30
 key_key.jei.toggleBookmarkOverlay:0
 key_bbw.key.mode:50
-key_bbw.key.fluidmode:28
-key_key.otghud.desc:24
-key_key.keyExtraInvo:45
+key_bbw.key.fluidmode:71
+key_key.otghud.desc:76
+key_key.keyExtraInvo:199
 key_key.keyWheel:19
-key_key.keyExtraCraftin:83
+key_key.keyExtraCraftin:72
+key_Options Gui:23
 key_key.cofh.multimode:47
 key_key.craftingtweaks.rotate:0
 key_key.craftingtweaks.rotate_counter_clockwise:0
@@ -197,14 +198,14 @@ key_overloaded.key.noclip:47
 key_key.refinedstorageaddons.openWirelessCraftingGrid:34:CONTROL
 key_xreliquary.keybind.fortune_coin:0
 key_key.craftingGrid:46
-key_Speak:74
+key_Speak:45
 key_Gliby's Options Menu:52
 key_key.control:29
 key_key.journeymap.zoom_in:13
 key_key.journeymap.zoom_out:12
 key_key.journeymap.minimap_type:26
-key_key.journeymap.minimap_preset:181
-key_key.journeymap.create_waypoint:51
+key_key.journeymap.minimap_preset:201
+key_key.journeymap.create_waypoint:48
 key_key.journeymap.toggle_waypoints:44
 key_key.journeymap.fullscreen_create_waypoint:48
 key_key.journeymap.fullscreen_chat_position:46
@@ -218,15 +219,15 @@ key_key.journeymap.fullscreen.east:205
 key_key.journeymap.fullscreen.west:203
 soundCategory_master:1.0
 soundCategory_music:0.0
-soundCategory_record:0.28169015
-soundCategory_weather:0.3802817
-soundCategory_block:0.28169015
-soundCategory_hostile:0.3802817
-soundCategory_neutral:0.28169015
-soundCategory_player:0.3802817
-soundCategory_ambient:0.28873238
-soundCategory_voice:0.37323943
-soundCategory_ds_footsteps:0.28169015
+soundCategory_record:0.17605634
+soundCategory_weather:0.24647887
+soundCategory_block:0.20422535
+soundCategory_hostile:0.23943663
+soundCategory_neutral:0.1971831
+soundCategory_player:0.1971831
+soundCategory_ambient:0.20422535
+soundCategory_voice:0.20422535
+soundCategory_ds_footsteps:0.2112676
 soundCategory_ds_biome:0.22535211
 modelPart_cape:true
 modelPart_jacket:true

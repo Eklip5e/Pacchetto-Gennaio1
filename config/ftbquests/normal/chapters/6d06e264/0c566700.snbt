@@ -10,5 +10,10 @@
 		items: [{
 			item: "improvedbackpacks:upgrade 1 1"
 		}]
+	}],
+	rewards: [{
+		uid: "02db7fb2",
+		type: "choice",
+		table: 0
 	}]
 }

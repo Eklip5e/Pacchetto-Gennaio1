@@ -7,5 +7,10 @@
 		items: [{
 			item: "actuallyadditions:block_giant_chest"
 		}]
+	}],
+	rewards: [{
+		uid: "4fd5479f",
+		type: "random",
+		table: 0
 	}]
 }
