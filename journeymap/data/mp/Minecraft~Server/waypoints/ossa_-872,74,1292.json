@@ -1,0 +1,18 @@
+{
+  "id": "ossa_-872,74,1292",
+  "name": "ossa",
+  "icon": "waypoint-normal.png",
+  "x": -872,
+  "y": 74,
+  "z": 1292,
+  "r": 15,
+  "g": 37,
+  "b": 103,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

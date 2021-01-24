@@ -1,0 +1,18 @@
+{
+  "id": "jasper_-321,63,495",
+  "name": "jasper",
+  "icon": "waypoint-normal.png",
+  "x": -321,
+  "y": 63,
+  "z": 495,
+  "r": 190,
+  "g": 38,
+  "b": 63,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "japacandra_-302,69,1203",
+  "name": "japacandra",
+  "icon": "waypoint-normal.png",
+  "x": -302,
+  "y": 69,
+  "z": 1203,
+  "r": 163,
+  "g": 52,
+  "b": 11,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

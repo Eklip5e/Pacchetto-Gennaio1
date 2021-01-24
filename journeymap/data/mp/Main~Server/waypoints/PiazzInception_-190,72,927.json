@@ -1,0 +1,19 @@
+{
+  "id": "PiazzInception_-190,72,927",
+  "name": "PiazzInception",
+  "displayId": "0a41ff82-e918-4919-982f-31fa329dc1a5",
+  "icon": "waypoint-normal.png",
+  "x": -190,
+  "y": 72,
+  "z": 927,
+  "r": 255,
+  "g": 255,
+  "b": 255,
+  "enable": true,
+  "type": "Normal",
+  "origin": "waystones",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

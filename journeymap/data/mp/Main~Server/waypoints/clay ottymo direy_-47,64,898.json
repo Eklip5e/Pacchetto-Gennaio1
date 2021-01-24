@@ -1,0 +1,18 @@
+{
+  "id": "clay ottymo direy_-47,64,898",
+  "name": "clay ottymo direy",
+  "icon": "waypoint-normal.png",
+  "x": -47,
+  "y": 64,
+  "z": 898,
+  "r": 127,
+  "g": 201,
+  "b": 32,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

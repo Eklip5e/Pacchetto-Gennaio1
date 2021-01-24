@@ -1,0 +1,18 @@
+{
+  "id": "esplorazione_177,74,1701",
+  "name": "esplorazione",
+  "icon": "waypoint-normal.png",
+  "x": 177,
+  "y": 74,
+  "z": 1701,
+  "r": 128,
+  "g": 60,
+  "b": 113,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

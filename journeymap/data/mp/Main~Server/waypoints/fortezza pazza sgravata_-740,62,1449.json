@@ -1,0 +1,18 @@
+{
+  "id": "fortezza pazza sgravata_-740,62,1449",
+  "name": "fortezza pazza sgravata",
+  "icon": "waypoint-normal.png",
+  "x": -740,
+  "y": 62,
+  "z": 1449,
+  "r": 176,
+  "g": 87,
+  "b": 13,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

@@ -1,0 +1,18 @@
+{
+  "id": "dungeon_-853,64,1557",
+  "name": "dungeon",
+  "icon": "waypoint-normal.png",
+  "x": -853,
+  "y": 64,
+  "z": 1557,
+  "r": 190,
+  "g": 253,
+  "b": 42,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}

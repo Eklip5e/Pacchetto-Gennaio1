@@ -1,0 +1,18 @@
+{
+  "id": "ESPLORARE_-54,76,1567",
+  "name": "ESPLORARE",
+  "icon": "waypoint-normal.png",
+  "x": -54,
+  "y": 76,
+  "z": 1567,
+  "r": 4,
+  "g": 18,
+  "b": 100,
+  "enable": true,
+  "type": "Normal",
+  "origin": "journeymap",
+  "dimensions": [
+    0
+  ],
+  "persistent": true
+}
